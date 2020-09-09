@@ -1,0 +1,4961 @@
+# Webalizer V2.23-08 Incremental Data - 03/31/2020 01:47:11
+2020 3 31 1 47 11
+113517 105309 810 849 103 228 7358538335 86235 1152 0
+19 651 1667 10 31
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1123 990 147002036 1 217 1
+2946 2350 380310173 6 221 4
+1395 648 117777589 6 94 10
+972 746 134804221 11 52 18
+26 3 275726 2 3 2
+330 261 56534169 2 10 5
+1562 1151 225032743 9 71 22
+2010 1199 220457834 7 107 17
+1611 1191 204379818 4 97 11
+3146 2426 473910797 14 164 22
+516 344 58490805 6 26 9
+2 2 64286 1 1 1
+133 86 8980167 28 72 31
+6987 6123 312477903 129 5032 138
+7090 6875 362719054 120 6289 120
+6410 5833 457151027 147 4406 137
+2834 2431 326320821 117 390 112
+10305 9977 584944333 110 8920 126
+21498 20761 1084290412 114 19662 103
+19399 19354 892402721 101 19268 109
+21726 21070 1221805718 149 19647 154
+1496 1488 88405982 19 1486 10
+4621 4435 339218022 3700
+3716 3679 192153530 3544
+2862 2844 126749362 2826
+2984 2965 132342460 2967
+3014 2998 146327298 2948
+2966 2958 131913196 2947
+3039 3030 135471671 2996
+3251 3218 139357984 3196
+3483 3432 165804933 3235
+4377 4047 228354543 3564
+7480 6823 602453929 4492
+7804 6955 616262040 4492
+6187 5523 401663078 4469
+5653 4989 324152849 4201
+6175 5724 427114460 4198
+5740 5178 363016231 4204
+5918 5090 474458545 3359
+6988 5693 574436822 3448
+6701 5647 601957533 3285
+4844 4531 391855851 3286
+3796 3764 219655815 3513
+4099 4025 222731298 3800
+4037 3994 220352157 3805
+3782 3767 180734728 3760
+0
+0
+0
+105309
+0
+0
+0
+0
+0
+4752
+0
+51
+0
+0
+2341
+0
+32
+115
+0
+0
+4
+85
+0
+0
+0
+741
+0
+0
+0
+0
+0
+0
+0
+0
+0
+87
+0
+0
+0
+0
+0
+# -urls- 
+/cmv.php
+0 1 8534160117404283954 44334 0 0
+/framework/imagenes/cuadrado/pequeno/5.jpg
+1 241 465520456289 387610419 0 0
+/test.php
+0 3 26592307478345273 133029 1 0
+/.git/HEAD
+0 1 7811906065744619892 40949 0 0
+/sitemap_index.xml
+0 5 3832061016548573184 234803 0 0
+/jj1.php
+0 1 3543824052742140977 44334 0 0
+/lala.php
+0 1 3615608967812953389 44334 0 0
+/wordpress/wp-includes/wlwmanifest.xml
+0 2 3473174907329720877 51158 0 0
+/bbq.php
+0 1 0 44334 0 0
+/forum/
+0 1 0 44334 0 0
+/framework/imagenes/equipo/roy.png
+1 179 0 16621235 0 0
+/nosotros/
+0 7 0 351161 3 2
+/phpMyAdmin/scripts/setup.php
+0 3 0 96121 0 0
+/pHpMyAdMiN/scripts/setup.php
+0 1 0 41150 0 0
+/author/franco
+0 2 0 86928 2 0
+/981.php
+0 1 0 44334 0 0
+/izom.php
+0 2 0 88668 0 0
+/myadmin/scripts/setup.php
+0 3 0 96121 0 0
+/phpma/
+0 1 0 44334 0 0
+/my/scripts/setup.php
+0 1 0 41150 0 0
+/mysql/admin/
+0 2 0 84855 0 0
+/streaming
+0 1 0 44361 0 0
+/wp-content/uploads/2018/06/Nosotros.gif
+1 1 0 40949 0 0
+/wp-content/uploads/2018/06/tecnologias-informacion.jpg
+1 23 0 1069697 0 0
+/framework/imagenes/bannerUp/largo1blanco.png
+1 12 0 293609 0 0
+/wp-content/plugins/wp-dreamworkgallery/license.txt
+0 1 0 40521 0 0
+/framework/fonts/roboto/Roboto-Bold.woff2
+0 558 0 19473488 0 0
+/db/scripts/setup.php
+0 1 0 41150 0 0
+/wordpress/
+0 2 0 51634 0 0
+/phpmy-admin/scripts/setup.php
+0 1 0 41150 0 0
+/web/wp-includes/wlwmanifest.xml
+0 1 0 10637 0 0
+/tabla_listado_mensaje_contacto
+0 29 0 78951 0 0
+/s/
+0 1 0 44334 0 0
+/db/myadmin/
+0 1 0 40521 0 0
+/wp-content/plugins/all-in-one-seo/all-in-one-seo.php
+0 1 19223408 46840 1 0
+/wp-content/uploads/2018/06/Botilleria-Sol-de-la-Noche-min.png
+1 2 32762621198496886 42730 0 0
+/root.php
+0 1 4049911943089055744 44334 0 0
+/framework/imagenes/equipo/jorge1.png
+1 122 7239367076207394816 16610930 0 0
+/gtde.php
+0 1 8386098825046405170 44332 0 1
+/shell.php
+0 2 3689909544147104001 88668 0 0
+/wp1/wp-includes/wlwmanifest.xml
+0 1 8100056503981535861 10637 0 0
+/wp-content/uploads/2018/06/Panaderia-San-Francisco-min.png
+1 3 3472607576593413937 84156 0 0
+/wp-content/plugins/4nton-extensions/license.txt
+0 1 3687941452709378353 40521 0 0
+/HNAP1/
+0 1 0 40940 0 0
+/elrekt.php
+0 1 0 44334 0 0
+/framework/imagenes/rfid.jpg
+1 32 0 2580576 0 0
+/https://www.sofgem.cl/framework/imagenes/bannerUp/3.png
+1 1 0 45988 0 0
+/phpMyAdmin-2.10.0/scripts/setup.php
+0 1 0 41150 0 0
+/nosotros
+0 4 0 175592 4 1
+/_query.php
+0 1 0 44334 0 0
+/phpMyAdmin2/
+0 1 0 40521 0 0
+/c0nfig.php
+0 1 19224352 46840 1 1
+/efecto/js/modernizr.custom.js
+0 140 0 1164218 0 0
+/framework/imagenes/rectangular/pequeno/10.png
+1 198 0 17702415 0 0
+/streaming/24RwMCnF5U.php
+0 1 0 44361 0 0
+/framework/imagenes/bannerUp/ancho.png
+1 3 0 496479 0 0
+/framework/imagenes/cuadrado/pequeno/4.jpg
+1 208 0 46191833 0 0
+/sitemap.xml
+0 3 0 137964 0 0
+/wp-config.php_OLD_BK
+0 1 0 45988 0 0
+/framework/imagenes/bannerUp/plananualoficial.png
+1 2 0 223543 0 0
+/phpMyAdmin/
+0 3 0 125805 0 0
+/framework/imagenes/rectangular/15.png
+1 195 0 5521320 0 0
+/dbadmin/
+0 2 0 84855 0 0
+/mysql/pma/
+0 1 0 40521 0 0
+/framework/imagenes/bannerUp/nuestrosplanes.png
+1 19 0 1206795 0 0
+/contacto
+0 2 0 98043 2 1
+/plugins/weathermap/editor.php
+0 1 0 44334 0 0
+/phpMyadmin/
+0 1 0 40521 0 0
+/https://www.sofgem.cl/framework/imagenes/cuadrado/6.png
+1 1 0 45988 0 0
+/wp-content/themes/peekaboo/functions.php
+0 1 19096848 45988 1 1
+/htdocs.php
+0 1 0 44334 0 0
+/framework/imagenes/cuadrado/pequeno/18.png
+1 198 0 8328569 0 0
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/readme.txt
+0 1 7220174212464601453 40927 0 0
+/blog/
+0 2 7566047373982433280 51634 0 0
+/framework/imagenes/equipo/kote.png
+1 173 3330467114770235392 4603800 0 0
+/framework/imagenes/imagen_card/update/planes1.png
+1 2 19249504 129608 0 0
+/wp-content/uploads/2018/06/Mayorista-DYL-min.png
+1 2 7163384644223827968 35263 0 0
+/framework/imagenes/bannerUp/mensual.png
+1 95 8389754659302211584 25532903 0 0
+/411.php
+0 1 3546638586918993920 44334 0 0
+/whoami.php
+0 1 0 44334 0 0
+/pma2011/
+0 2 0 81671 0 0
+/db/
+0 2 0 84855 0 0
+/admin/mysql/
+0 1 0 44334 0 0
+/_pHpMyAdMiN/scripts/setup.php
+0 1 0 41150 0 0
+/wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js
+0 2 0 11320 0 0
+/framework/imagenes/rectangular/14.png
+1 194 0 6701882 0 0
+/framework/imagenes/rectangular/pequeno/11.png
+1 192 0 5747758 0 0
+/.well-known/security.txt
+0 2 0 91976 0 0
+/phpmadmin/
+0 1 0 44334 0 0
+/framework/imagenes/bannerUp/modal1.png
+1 62 0 1056368 0 0
+/wp-admin/home.bak.php
+0 1 18849024 45988 1 0
+/framework/imagenes/cuadrado/pequeno/6.png
+1 205 0 27955752 0 0
+/mysqladmin/scripts/setup.php
+0 1 0 41150 0 0
+/phpmyadmin/
+0 106 0 1292118 3 0
+/https://www.sofgem.cl/framework/imagenes/bannerUp/largo2.png
+1 1 0 45988 0 0
+/login.php
+0 1 0 44361 0 0
+/pma2018/
+0 1 0 40521 0 0
+/wp-content/uploads/2018/06/Myster-hyundai-min.png
+1 2 0 15310 0 0
+/pma2013/
+0 1 0 40521 0 0
+/welcome/controlador_emails
+0 30 0 377 0 0
+/tabla_listado_encuesta
+0 14 0 60803 0 0
+/PMA2017/
+0 1 0 40521 0 0
+/blog/xmlrpc.php
+0 1 0 44332 0 0
+/admin/sqladmin/
+0 1 0 40521 0 0
+/welcome/controlador_encuesta_email
+0 1 0 7227 0 0
+/framework/imagenes/rectangular/2.png
+1 199 0 9440046 0 0
+/framework/imagenes/ok.png
+1 135 85912738470506038 1038489 0 0
+/wp-json/wp/v2/users/
+0 2 27747 56625 2 0
+/https://www.sofgem.cl/welcome/preguntas_frecuentes
+0 1 87035339876020526 45988 0 0
+/wp-content/uploads/2018/06/MyM-Distribuidora-min.png
+1 2 16303876386868833846 31291 0 0
+/wp-config.php.mlehr.bak
+0 1 3531103582835179520 45988 0 0
+/seter.php
+0 1 7960503965994593589 40940 1 0
+/framework/imagenes/imagen_card/9.png
+1 26 6807631517615338034 6663993 0 0
+/wp-content/plugins/dzs-zoomsounds/ajax.php
+0 2 0 91350 2 0
+/phpmoadmin/scripts/setup.php
+0 1 0 41150 0 0
+/administrator/web/
+0 1 0 40521 0 0
+/phpNyAdmin/
+0 1 0 44334 0 0
+/framework/imagenes/cuadrado/pequeno/9.png
+1 199 0 8182152 0 0
+/tt.php
+0 1 0 44334 0 0
+/framework/imagenes/cuadrado/pequeno/2.png
+1 205 0 14372309 0 0
+/phpmyadmin/scripts/config.inc.php
+0 1 0 41150 0 0
+/TP/public/
+0 20 0 878279 8 0
+/remote/login
+0 1 0 40521 1 1
+/ludk.php
+0 1 0 41373 1 1
+/qq.php
+0 1 0 44334 0 0
+/framework/css/materialize.min.css
+0 245 0 32109153 0 0
+/framework/imagenes/icon_sofgem.png
+1 507 0 1211092 0 0
+/joomla/
+0 4 0 177336 0 0
+/hell.php
+0 1 0 44334 0 0
+/whoami.php.php
+0 1 0 44334 0 0
+/mysql/mysqlmanager/
+0 2 0 84855 0 0
+/client_area/
+0 1 0 44361 0 0
+/phpMyAdmin.old/
+0 1 0 44334 0 0
+/administrator/db/
+0 1 0 40521 0 0
+/framework/imagenes/bannerUp/largo2.png
+1 98 0 5050748 0 0
+/framework/imagenes/imagen_card/5.png
+1 31 0 4328324 0 0
+/fbnxrU.php
+0 1 0 40940 0 0
+/ads.txt
+0 2 0 85213 0 0
+/https://www.sofgem.cl/framework/imagenes/cuadrado/1.png
+1 1 0 45988 0 0
+/1/
+0 1 0 44334 0 0
+/https://www.sofgem.cl/framework/js/materialize.min.js
+0 1 3615887148633174320 45988 0 0
+/framework/imagenes/rectangular/pequeno/7.png
+1 200 3687940340262972976 22850222 0 0
+/framework/imagenes/rectangular/17.png
+1 195 3531103582835179520 7870661 0 0
+/framework/imagenes/bannerUp/banneranual2.png
+1 83 1585025108 12147005 0 0
+/7o.php
+0 1 8029471099004875365 44334 0 0
+/framework/imagenes/cuadrado/7.png
+1 200 8026310034246885747 16431032 0 0
+/icons/apache_pb.gif
+1 1 28278 0 0 0
+/wp-content/plugins/sec/s3eller.php
+0 1 7955941294179495477 40940 0 0
+/https://www.sofgem.cl/framework/imagenes/icon_sofgem.png
+1 1 0 45988 0 0
+/welcomes/editar_perfil_clientes
+0 1 0 10082 0 0
+/sqlmanager/
+0 1 0 40521 0 0
+/wp-content/uploads/2018/06/serv-Factura-electronica3.jpg
+1 2 0 78036 0 0
+/wp-config.php
+0 1 0 44334 0 0
+/framework/imagenes/cuadrado/pequeno/11.jpeg
+0 197 0 7309232 0 0
+/1Jlv
+0 1 0 0 1 0
+/framework/imagenes/cuadrado/pequeno/13.png
+1 220 0 109328041 0 0
+/framework/imagenes/imagen_card/update/1.png
+1 17 19249216 620096 0 0
+/phpmyadmin1/scripts/setup.php
+0 1 0 41150 0 0
+/framework/imagenes/rectangular/7.png
+1 201 0 14037710 0 0
+/phpmy-admin/
+0 1 0 40521 0 0
+/phpmy/
+0 1 0 40521 0 0
+/framework/imagenes/bannerUp/todoplanes1.png
+1 83 0 11335842 0 0
+/framework/imagenes/rectangular/8.png
+1 191 0 3844650 0 0
+/consulta-tu-dte
+0 3 0 123203 3 2
+/PMA2020/
+0 1 0 40521 0 0
+/wp-config.php_hlt
+0 1 0 45988 1 0
+/phpmyadmin1/
+0 2 0 84855 0 0
+/phpMyAdmi/scripts/setup.php
+0 1 0 41150 0 0
+/123131/
+0 1 0 44334 0 0
+/framework/imagenes/rectangular/pequeno/12.jpg
+1 222 0 233050458 0 0
+/sql/phpmy-admin/
+0 1 0 40521 0 0
+/framework/imagenes/icono/2.png
+1 10 0 327656 0 0
+/wp/xmlrpc.php
+0 1 0 44332 0 0
+/kk.php
+0 1 0 44334 0 0
+/php2MyAdmin/
+0 1 0 44334 0 0
+/editar_usuario
+0 5 0 195 0 0
+/text.php
+0 1 7598805550878713188 44334 0 0
+/help-e.php
+0 1 405766443777 44334 0 0
+/sql/websql/
+0 1 85626882559586862 40521 0 0
+/mysql/scripts/setup.php
+0 1 7171939 41150 0 0
+/framework/fonts/roboto/Roboto-Medium.woff
+0 743 3976961045456486400 33619214 0 0
+/forum.php
+0 1 8391737095997304372 44334 0 0
+/wp-content/plugins/acf-frontend-display/license.txt
+0 1 4121693059555524608 40521 0 0
+/wp-content/themes/twentyseventeen/style.css
+0 5 0 230346 0 0
+/pmd_online.php
+0 1 0 44334 0 0
+/api.php
+0 1 0 44361 0 0
+/framework/css/modaltop.css
+0 224 0 86768 0 0
+/bbs/
+0 1 0 44334 0 0
+/administrator/phpMyAdmin/
+0 1 0 40521 0 0
+/sqladm/scripts/setup.php
+0 1 0 41150 0 0
+/wp-content/uploads/2018/06/La-Moderna-min.png
+1 2 0 45951 0 0
+/framework/imagenes/bannerUp/banneranual1.png
+1 52 0 4849516 0 0
+/framework/imagenes/rectangular/pequeno/4.png
+1 198 0 13816538 0 0
+/myadmin/
+0 1 0 40521 0 0
+/images/up.php
+0 1 0 44334 0 0
+/https://www.sofgem.cl/framework/imagenes/cuadrado/7.png
+1 1 0 45988 0 0
+/post-sitemap.xml
+0 1 0 40949 0 0
+/db/websql/
+0 1 0 40521 0 0
+/welcome/formulario
+0 54 0 899867 0 0
+/wpo.php
+0 1 0 44334 0 0
+/wp-content/plugins/brizy/admin/site-settings.php
+0 1 0 44332 0 0
+/welcome/nosotross
+0 2 0 78442 0 0
+/wp-content/uploads/2018/06/Distribuidora-Arenas-min.png
+1 2 0 31600 0 0
+/https://www.sofgem.cl//framework/imagenes/sofgem.png
+1 1 0 45988 0 0
+/wp-content/themes/peekaboo/404.php
+0 1 19229728 46840 1 1
+/wp-content/plugins/bulk-comment-remove/w.php
+0 1 0 40940 0 0
+/phpdm.php
+0 1 0 44334 0 0
+/wp-content/themes/wp-update.php
+0 3 0 120267 3 2
+/php-myadmin/
+0 1 0 40521 0 0
+/appserv.php
+0 1 0 44334 0 0
+/wp-content/plugins/sec/up.phtml
+0 1 0 40940 0 0
+/framework/imagenes/rectangular/pequeno/6.png
+1 205 87598302613288241 30446269 0 0
+/321/
+0 1 8750545123535957612 44334 0 0
+/wp-config.php_old2
+0 1 7596555523118333952 45988 0 0
+/framework/imagenes/rectangular/pequeno/9.png
+1 188 3543543884288098304 1840267 0 0
+/.wp-config.php.swp
+0 1 8534995789178631535 45988 0 0
+/wp-sgin.php
+0 2 0 88666 1 0
+/simple.php5
+0 1 499917925996 40940 0 0
+/Autodiscover/Autodiscover.xml
+0 1 18977264 31 0 0
+/administrator/PMA/
+0 1 0 40521 0 0
+/wp-config.php.tpl
+0 1 0 45988 0 0
+/wp-includes/wlwmanifest.xml
+0 3 0 95421 0 0
+/boton_comentario_mensaje
+0 6 0 371 0 0
+/forums.php
+0 1 0 44334 0 0
+/db/dbweb/
+0 1 0 40521 0 0
+/encuesta_cliente
+0 47 0 1316 0 0
+/framework/imagenes/rectangular/3.png
+1 207 0 54809273 0 0
+/framework/imagenes/equipo/iconosempresas.png
+1 120 0 2746248 0 0
+/framework/imagenes/rectangular/pequeno/13.png
+1 188 0 2116279 0 0
+/mysql/sqlmanager/
+0 2 0 84855 0 0
+/framework/imagenes/imagen_card/update/planes.png
+1 15 19250208 1724968 0 0
+/db/phpmyadmin/
+0 1 0 40521 0 0
+/App/
+0 7 0 308970 2 0
+/wp-content/themes/twentyseventeen-child/ctc-style.css
+0 4 0 101017 0 0
+/_phpmyadmin/scripts/setup.php
+0 1 0 41150 0 0
+/wp-config.php_antigo
+0 1 0 45988 0 0
+/sqlweb/scripts/setup.php
+0 1 0 41150 0 0
+/framework/imagenes/imagen_card/6.png
+1 31 0 3175900 0 0
+/phpMyAdmin-3/
+0 1 0 40521 0 0
+/web-console/ServerInfo.jsp
+0 2 0 81900 0 0
+/wp-content/uploads/2018/06/Eproquim-min.png
+1 3 0 64138 0 0
+/PMA2013/
+0 1 0 40521 0 0
+/aap.php
+0 1 0 44334 0 0
+/framework/imagenes/cuadrado/1.png
+1 202 0 16181505 0 0
+/welcome/
+0 1 0 38539 0 0
+/phpMyAdmin123/
+0 1 0 44334 0 0
+/writebab.php
+0 1 7954880231058178048 40949 1 0
+/framework/imagenes/equipo/captura_1.jpg
+1 128 3345175497338533421 2777415 0 0
+/wp-content/plugins/popup-builder/public/js/Popup.js
+0 1 8299628549110653283 44332 0 0
+/x.php
+0 1 8246201381690540032 40940 0 0
+/wp-content/uploads/2018/06/pernos-bac-min.png
+1 2 3330470409768875565 30129 0 0
+/wp-admin/
+0 1 3544665196317519408 45988 1 1
+/license.php
+0 1 3275071809571808119 44334 0 0
+/phpMyAdmin._/
+0 1 0 44334 0 0
+/huoshan.php
+0 1 0 44334 0 0
+/webdav/
+0 1 0 44334 0 0
+/sql/phpMyAdmin/
+0 1 0 40521 0 0
+/welcome/contacto
+0 170 0 2195208 6 4
+/framework/imagenes/cuadrado/pequeno/3.png
+1 229 0 108893410 0 0
+/Cliente/Login/validar.php
+0 1 0 40940 1 0
+/streaming/clients_live.php
+0 2 0 88722 0 0
+/_phpMyAdmin/scripts/setup.php
+0 1 0 41150 0 0
+/framework/imagenes/bannerUp/ancho2.png
+1 10 0 656824 0 0
+/.git/config
+0 1 0 45988 0 0
+/wp-content/plugins/portable-phpmyadmin/wp-pma-mod/
+0 2 0 84855 0 0
+/root11.php
+0 1 0 44334 0 0
+/xx.php
+0 2 0 88668 0 0
+/admin/PMA/
+0 1 0 44334 0 0
+/solr/admin/info/system
+0 1 0 45988 1 0
+/framework/slick/fonts/slick.svg
+0 3 0 122448 0 0
+/xmlrpc-blog.php
+0 1 19119472 45988 1 1
+/trackback.php
+0 1 0 40949 1 1
+/https://www.sofgem.cl/framework/imagenes/sofgem.png
+1 1 0 45988 0 0
+/stalker_portal/c/version.js
+0 1 0 44361 0 0
+/pma2019/
+0 1 0 40521 0 0
+/phpmyadmin/4.2/installing/
+0 1 0 41150 0 0
+/hhh.php
+0 1 0 44334 0 0
+/1x.php
+0 1 0 44334 0 0
+/framework/imagenes/rectangular/6.png
+1 204 0 5952576 0 0
+/shopdb/
+0 2 0 84855 0 0
+/wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js
+0 2 0 16473 0 0
+/framework/imagenes/rectangular/10.jpg
+1 228 0 261997160 0 0
+/framework/imagenes/cuadrado/3.png
+1 201 0 7811770 0 0
+/sql/phpmanager/
+0 1 0 40521 0 0
+/user/register/
+0 1 0 41373 1 0
+/framework/imagenes/bannerUp/cortado_3.jpg
+1 72 0 2715195 0 0
+/wp-content/uploads/2018/06/Repuestos-Yates-min.png
+1 2 0 27158 0 0
+/phpMyAdmin/setup/setup.php
+0 1 0 41150 0 0
+/PMA2012/scripts/setup.php
+0 1 0 41150 0 0
+/images/portfolio/i.png
+1 1 0 40940 0 0
+/wp-content/uploads/2018/06/Rosa-chilena-min.jpg
+1 2 0 161631 0 0
+/wp-content/uploads/2018/06/Megacolor-min.png
+1 3 0 72937 0 0
+/efecto/fonts/codropsicons/codropsicons.ttf
+0 1 0 2060 0 0
+/user/register
+0 1 0 44334 0 0
+/jmx-console/
+0 1 0 40950 0 0
+/admin/phpmyadmin/
+0 2 0 84855 0 0
+/framework/imagenes/cuadrado/pequeno/1.png
+1 207 0 51068045 0 0
+/framework/imagenes/icono/3.png
+1 174 0 5282816 0 0
+/welcome/listado_encuestas
+0 1 0 11973 0 0
+/database/
+0 1 0 40521 0 0
+/framework/imagenes/bannerUp/plananualoficial1.png
+1 1 0 182616 0 0
+/muhstiks.php
+0 1 0 44334 0 0
+/configbak.php
+0 1 0 40521 1 1
+/favicon.ico
+0 54 0 1548015 0 0
+/new_license.php
+0 1 0 44334 0 0
+/efecto/images/2.png
+1 1 0 5561 0 0
+/https://www.sofgem.cl/welcome/index
+0 1 0 45988 0 0
+/uuu.php
+0 1 0 44334 0 0
+/https://www.sofgem.cl/framework/imagenes/bannerUp/puntoventa.png
+1 1 0 45988 0 0
+/framework/imagenes/cuadrado/pequeno/10.jpg
+1 244 0 426064315 0 0
+/framework/fonts/roboto/Roboto-Light.woff2
+0 738 0 24884552 0 0
+/wp-content/plugins/wp-vertical-gallery/license.txt
+0 1 0 40521 0 0
+/framework/imagenes/equipo/texto.png
+1 32 0 2685375 0 0
+/pma/
+0 2 0 84855 0 0
+/wp-content/uploads/2018/06/Adrival-Repuestos-min.png
+1 2 504426815860 45253 0 0
+/.well-known/acme-challenge/pv53bzB479sUb6XD_WkNVAJPMjP91eCMQNgJo_YLyrM
+0 3 0 30552 0 0
+/pma2020/
+0 1 7939339475177321268 40521 0 0
+/public/
+0 11 103876216422712 505868 0 0
+/421.php
+0 1 87319013876117806 44334 0 0
+/wp-content/plugins/mail-masta/readme.txt
+0 1 3688729569793146880 44361 0 0
+/framework/slick/slick-theme.css
+0 69 3544665200629186816 435176 0 0
+/wp-content/plugins/ithemes-sync/js/admin-notice.js
+0 1 1836016430 44332 0 0
+/https://www.sofgem.cl/framework/imagenes/cuadrado/3.png
+1 1 0 45988 0 0
+/wp-includes/class-comments.php
+0 1 0 44361 1 1
+/welcome/inicio_sesion_generalss
+0 1 0 10184 0 0
+/framework/imagenes/matias2.jpg
+1 32 0 62789915 0 0
+/framework/imagenes/rectangular/pequeno/8.png
+1 207 0 52128067 0 0
+/framework/imagenes/imagen_card/4.png
+1 28 0 3204797 0 0
+/hs.php
+0 1 0 44334 0 0
+/muieblackcat
+0 1 0 10637 1 0
+/fgertreyersd.php
+0 1 0 40940 0 0
+/rxr.php
+0 1 0 44334 0 0
+/bbs.php
+0 1 0 44334 0 0
+/framework/imagenes/bannerUp/cortado_1.jpg
+1 185 0 5271664 0 0
+/images/portfolio/l.png
+1 1 0 40927 0 0
+/framework/imagenes/equipo/ingrid.png
+1 181 0 19404672 0 0
+/wp/wp-includes/wlwmanifest.xml
+0 2 0 51158 0 0
+/framework/imagenes/bannerUp/descripcion_plan.png
+1 51 0 6572828 0 0
+/444.php
+0 1 0 44334 0 0
+/pagina-de-ejemplo/
+0 1 0 40940 0 1
+/framework/imagenes/bannerUp/2.png
+1 168 0 95916609 0 0
+/wp-content/uploads/2018/06/AutoRepuestos-min.png
+1 2 0 24427 0 0
+/framework/imagenes/imagen_card/3.png
+1 31 0 4431294 0 0
+/db_cts.php
+0 1 0 44334 0 0
+/wp-content/uploads/2018/06/Panaderia-Don-Camilo-min.png
+1 2 0 47479 0 0
+/https://www.sofgem.cl/framework/imagenes/bannerUp/2.png
+1 1 0 45988 0 0
+/phpadmin/
+0 1 0 44334 0 0
+/framework/fonts/roboto/Roboto-Regular.woff2
+0 772 0 26653627 0 0
+/consulta-tu-dte/
+0 7 0 322400 3 2
+/https://www.sofgem.cl/welcome/inicio_sesion_general
+0 1 0 45988 0 0
+/phpmyadmin2012/
+0 1 0 40521 0 0
+/logon.php
+0 1 0 44334 0 0
+/wp2/wp-includes/wlwmanifest.xml
+0 1 0 10637 0 0
+/admin/
+0 2 0 84855 0 0
+/framework/imagenes/modal/4.png
+1 154 0 30306914 0 0
+/db/db-admin/
+0 1 0 40521 0 0
+/vvv.php
+0 1 0 44334 0 0
+/composers.php
+0 1 0 44334 0 0
+/pmd/
+0 1 0 44334 0 0
+/knal.php
+0 1 0 44334 0 0
+/db_pma.php
+0 1 0 44334 0 0
+/framework/imagenes/modal/icono4.png
+1 5 0 63258 0 0
+/program/
+0 2 0 84855 0 0
+/wp-includes/theme-compat/myker.php
+0 1 0 45988 1 1
+/css.php
+0 1 0 40940 0 0
+/PMA2016/
+0 1 0 40521 0 0
+/sqladmin/scripts/setup.php
+0 1 0 41150 0 0
+/framework/imagenes/factura.jpg
+1 32 0 2156768 0 0
+/assets/images/new_license.php
+0 1 18849248 45988 0 0
+/https://code.jquery.com/jquery-3.2.1.min.js
+0 1 0 45988 0 0
+/website/wp-includes/wlwmanifest.xml
+0 1 0 10637 0 0
+/https://www.sofgem.cl/framework/imagenes/bannerUp/confiannosotros1.png
+1 1 0 45988 0 0
+/sql/phpmyadmin2/
+0 1 0 40521 0 0
+/Admina49b6fc8/Login.php
+0 1 0 11020 0 0
+/administrator/phpmyadmin/
+0 1 0 40521 0 0
+/yuyang.php
+0 1 0 44334 0 0
+/welcome/controlador_email
+0 1 0 3176 0 0
+/author-sitemap.xml
+0 1 19241696 46840 0 0
+/wp-config.php.old
+0 1 0 45988 0 0
+/phpMyAdmin4.8.3/
+0 1 0 44334 0 0
+/phpMyAbmin/
+0 1 0 44334 0 0
+/framework/imagenes/banner/img_2.png
+1 237 0 40374257 0 0
+/wp-content/themes/twentyseventeen-child/fonts/fontawesome-webfont.woff2
+0 1 0 77160 0 0
+/framework/fonts/roboto/Roboto-Regular.woff
+0 757 3329629283390206513 33200590 0 0
+/welcome/administrador
+0 27 0 321828 0 0
+/sql/webadmin/
+0 1 7103278 40521 0 0
+/wp-content/uploads/2018/06/Eurofran-min.png
+1 4 3834869157152763446 132246 0 0
+/framework/imagenes/cuadrado/pequeno/12.jpeg
+0 204 26592309659383602 37637215 0 0
+/images/attari.php
+0 1 3904112040091910144 44334 0 0
+/wp-content/uploads/2018/06/Ferreteria-Parral-min.png
+1 5 4049140685285097472 164305 0 0
+/phpMyAdmin4.8.0/
+0 1 7238814487383861294 44334 0 0
+/framework/imagenes/cuadrado/pequeno/16.jpg
+1 199 18901728 16459146 0 0
+/phpmyadmin2020/
+0 1 0 40521 0 0
+/wp-content/uploads/2018/06/Importadora-Rodar-min.png
+1 2 0 37054 0 0
+/SQL/scripts/setup.php
+0 1 0 41150 0 0
+/wp-content/themes/twentyseventeen/assets/js/global.js
+0 3 0 26001 0 0
+/wp-content/uploads/2018/06/logo-maderas-flores-min.jpg
+1 2 0 21005 0 0
+/https://www.sofgem.cl/welcome/contacto
+0 1 0 45988 0 0
+/welcome/editar_perfil_cliente
+0 24 0 309798 0 0
+/wp-content/uploads/2018/06/Nova-chile-min.png
+1 3 0 95345 0 0
+/lala-dpr.php
+0 1 0 44334 0 0
+/vpn/
+0 1 0 40949 1 0
+/kpl.php
+0 1 0 44334 0 0
+/category-sitemap.xml
+0 1 19240480 46840 0 0
+/phpMyAdminhf/
+0 1 0 44334 0 0
+/phpMyAdmin-4.4.0/
+0 1 0 44334 0 0
+/sql/
+0 1 0 44334 0 0
+/phpmyadmin3/scripts/setup.php
+0 1 0 41150 0 0
+/preguntas-frecuentes
+0 1 0 44361 1 0
+/framework/imagenes/modal/icono2.png
+1 5 0 69510 0 0
+/framework/slick/ajax-loader.gif
+1 316 0 14532739 0 0
+/admin/sysadmin/
+0 1 0 40521 0 0
+/wp-content/uploads/2018/06/Todo-Repuestos-min.png
+1 4 0 121941 0 0
+/framework/imagenes/rectangular/pequeno/3.png
+1 193 0 6337526 0 0
+/https://www.sofgem.cl/framework/imagenes/cuadrado/5.png
+1 1 0 45988 0 0
+/framework/imagenes/bannerUp/1.png
+1 84 0 33935424 0 0
+/mysql_admin/
+0 1 0 44334 0 0
+/admin/phpMyAdmin/
+0 2 0 84855 0 0
+/pmamy/
+0 1 0 44334 0 0
+/https://www.sofgem.cl/framework/imagenes/bannerUp/planesin.png
+1 1 0 45988 0 0
+/framework/imagenes/bannerUp/puntoventa.png
+1 69 0 17440178 0 0
+/database/scripts/setup.php
+0 1 0 41150 0 0
+/hhhhhh.php
+0 1 0 44334 0 0
+/wp-content/plugins/breezing-forms/license.txt
+0 1 0 40521 0 0
+/wp-content/uploads/2018/06/cropped-logo-Sofgem-OP-11.png
+1 4 0 256992 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 3 0 66681 0 0
+/wp-content/themes/twentyfifteen/404.php
+0 1 0 45988 1 1
+/images/xxx.php
+0 1 0 41150 1 1
+/https://fonts.googleapis.com/icon
+0 1 0 45988 0 0
+/framework/imagenes/imagen_card/update/mariajose.png
+1 17 19249648 507960 0 0
+/PMA/scripts/db___.init.php
+0 1 0 44334 0 0
+/wp-content/plugins/themegrill-demo-importer/readme.txt
+0 2 19169856 92984 0 0
+/framework/imagenes/modal/icono1.png
+1 5 0 131901 0 0
+/Telerik.Web.UI.WebResource.axd
+0 2 0 81042 0 0
+/aaa.php
+0 1 0 44334 0 0
+/solr/
+0 3 0 126232 2 2
+/framework/imagenes/banner/2.png
+1 3 0 640323 0 0
+/mysql/
+0 3 0 129189 0 0
+/wp-content/uploads/2018/06/Libreria-Santamaria-min.png
+1 3 0 89936 0 0
+/framework/imagenes/denarium.jpg
+1 32 0 1758688 0 0
+/indea.php
+0 1 0 44334 0 0
+/wp-content/plugins/colors.php
+0 1 0 40940 0 0
+/admin/mysql2/
+0 1 0 44334 0 0
+/otsmobile/app/mgs/mgw.htm
+0 1 0 40949 1 0
+/public/spread.php
+0 2 0 91976 0 0
+/framework/imagenes/rectangular/11.png
+1 195 0 11545522 0 0
+/welcome/editar_perfil_administrador
+0 7 0 77945 0 0
+/xw1.php
+0 1 0 44334 0 0
+/framework/imagenes/cuadrado/10.jpg
+1 204 0 33531555 0 0
+/framework/imagenes/sofgem.png
+1 419 0 64589297 0 0
+/MyAdmin/scripts/setup.php
+0 3 0 96121 0 0
+/https://www.sofgem.cl/framework/imagenes/bannerUp/perrosinmac.png
+1 1 0 45988 0 0
+/pma2012/
+0 2 0 81671 0 0
+/framework/slick/slick.min.js
+0 63 0 2649010 0 0
+/phqmv.php
+0 1 3687663284793864192 45988 1 1
+/zz.php
+0 1 3546638781085200942 44334 0 0
+/sql/webdb/
+0 1 8247346759398010422 40521 0 0
+/phpMyAdmins/
+0 1 3781334837130952704 44334 0 0
+/ak.php
+0 1 87592792254197298 44334 0 0
+/wp-content/plugins/themegrill-demo-importer/license.txt
+0 1 3344032066234053477 40521 0 0
+/framework/imagenes/equipo/jorge.png
+1 102 3543615352543903744 5123480 0 0
+/framework/js/custom.js
+0 718 8389754706581218162 3986521 0 0
+/sane.php
+0 1 0 44334 0 0
+/framework/slick/slick.css
+0 69 0 350298 0 0
+/wp-content/themes/twentyseventeen-child/bootstrap/css/bootstrap.min.css
+0 5 0 291822 0 0
+/vendor/phpunit/phpunit/src/Util/PHP/Template/TestCaseMethod.tpl.dist
+0 1 0 44263 0 0
+/https://www.sofgem.cl/efecto/js/toucheffects.js
+0 1 0 45988 0 0
+/framework/imagenes/tic_05.jpg
+1 292 0 16327660 0 0
+/phppma/
+0 2 0 84855 0 0
+/wp-content/themes/twentyseventeen-child/fonts/font-awesome.min.css
+0 5 0 177945 0 0
+/phppgadmin/scripts/setup.php
+0 1 0 41150 0 0
+/framework/imagenes/rectangular/pequeno/14.jpg
+1 190 0 2896803 0 0
+/app-ads.txt
+0 2 0 91976 0 0
+/welcome/controlador_emai
+0 1 0 10184 0 0
+/wp-login.php
+0 9 0 401865 6 0
+/framework/imagenes/cuadrado/14.png
+1 202 0 13645890 0 0
+/db/phpMyAdmin3/
+0 1 0 40521 0 0
+/efecto/js/toucheffects.js
+0 134 0 279832 0 0
+/Byr0
+0 1 0 0 1 0
+/.well-known/acme-challenge/2CVR1xaJzdy_1ieQ7meM8FF2CW_Z9SHBgrsm2Yx9hxs
+0 4 0 40736 0 0
+/shaAdmin/
+0 1 0 44334 0 0
+/framework/imagenes/cuadrado/pequeno/groomer.jpeg
+0 200 0 5526827 0 0
+/home.php
+0 1 0 44334 0 0
+/phpMyAdmin4.8.4/
+0 1 0 44334 0 0
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+0 5 0 148630 0 0
+/wp-content/uploads/2018/06/Repuestos-Castillo-min.png
+1 2 0 26150 0 0
+/site/wp-includes/wlwmanifest.xml
+0 1 0 40521 0 0
+/welcome/nosotros
+0 37 0 645153 3 2
+/owa/auth/logon.aspx
+0 1 0 40940 0 0
+/ffr.php
+0 1 0 44334 0 0
+/wp-content/plugins/attachment-manager/license.txt
+0 1 0 40521 0 0
+/.bash_history
+0 1 0 40940 0 0
+/framework/imagenes/bannerUp/planes_poseen.jpg
+1 60 0 1318636 0 0
+/zzz.php
+0 1 0 44334 0 0
+/framework/imagenes/soporte.jpg
+1 32 0 3095872 0 0
+/iniciar_sesion_equipo_cliente
+0 44 0 1502 0 0
+/controlador_emails
+0 1 0 10184 0 0
+/415.php
+0 1 0 44334 0 0
+/mysql/pMA/
+0 1 0 40521 0 0
+/admin/phpmyadmin2/
+0 1 0 44334 0 0
+/framework/imagenes/bannerUp/planmensualoficial1.png
+1 50 0 14911428 0 0
+/efecto/css/component.css
+0 191 0 1199845 0 0
+/jbb.php
+0 1 0 44334 0 0
+/db/webdb/
+0 1 0 40521 0 0
+/wp-content/uploads/2018/06/serv-Soporte-tecnico2.jpg
+1 4 0 180139 0 0
+/wp-includes/js/jquery/jquery.js
+0 3 0 153499 0 0
+/wp-content/uploads/2018/06/Libreria-Patazan-min.png
+1 4 0 119814 0 0
+/taisui.php
+0 1 0 44334 0 0
+/phpMydmin/
+0 1 0 44334 0 0
+/PMA2019/
+0 1 0 40521 0 0
+/uploader.php
+0 1 0 44334 0 0
+/phpmyadmin2011/scripts/setup.php
+0 1 0 41150 0 0
+/welcome/for
+0 1 0 10184 0 0
+/framework/imagenes/cuadrado/12.jpg
+1 206 0 37577697 0 0
+/framework/imagenes/equipo/luciano.png
+1 147 0 31726875 0 0
+/s
+0 1 0 10637 0 0
+/wp-content/themes/twentyseventeen/404.php
+0 1 0 44361 0 1
+/phpMyAdmin4/
+0 1 0 40521 0 0
+/db/phpMyAdmin/
+0 1 0 40521 0 0
+/https://www.sofgem.cl/framework/js/custom.js
+0 1 0 45988 0 0
+/wp-content/uploads/2018/06/kroline-min.png
+1 3 0 79082 0 0
+/db/phpMyAdmin-3/
+0 1 0 40521 0 0
+/floaw.php
+0 1 0 44334 0 0
+/stalker_portal/c/
+0 1 0 44361 1 0
+/db/phpmyadmin/scripts/setup.php
+0 1 0 41150 0 0
+/wp-includes/js/wp-embed.min.js
+0 2 0 12040 0 0
+/phpmyadmin2/
+0 2 0 84855 0 0
+/administrator/pma/
+0 1 0 40521 0 0
+/doudou.php
+0 1 0 44334 0 0
+/no1.php
+0 1 0 44334 0 0
+/wp-content/plugins/contact-form-7/includes/js/scripts.js
+0 2 0 25077 0 0
+/download/
+0 1 0 44334 0 0
+/https://www.sofgem.cl/framework/imagenes/cuadrado/4.png
+1 1 0 45988 0 0
+/nb.php
+0 1 0 44334 0 0
+/phpmyAdmin/
+0 1 0 40521 0 0
+/framework/imagenes/cuadrado/4.png
+1 201 18446744073709551615 15152800 0 0
+/framework/slick/fonts/slick.woff
+0 92 0 3827489 0 0
+/w.php
+0 1 0 44334 0 0
+/wp-includes/ID3/comay.php
+0 1 19061888 45988 0 1
+/wp-includes/js/wp-emoji-release.min.js
+0 2 0 22663 0 0
+/pma2016/
+0 1 48 40521 0 0
+/haiyan.php
+0 1 0 44334 0 0
+/framework/fonts/roboto/Roboto-Bold.woff
+0 649 0 27639173 0 0
+/db/dbadmin/
+0 1 0 40521 0 0
+/framework/imagenes/modal/6.png
+1 38 0 13018214 0 0
+/wp-content/plugins/flexible-checkout-fields/assets/js/admin.js
+0 1 0 44332 0 0
+/news.php
+0 1 0 45988 1 1
+/.wp-config.php.swo
+0 1 0 45988 0 0
+/phpAdmin/
+0 1 0 44334 0 0
+/_PHPMYADMIN/scripts/setup.php
+0 1 0 41150 0 0
+/phpMyAdmin333/
+0 1 0 44334 0 0
+/sito/wp-includes/wlwmanifest.xml
+0 1 0 10637 0 0
+/framework/imagenes/rectangular/12.jpg
+1 197 0 14435008 0 0
+/sql/sqlweb/
+0 1 0 40521 0 0
+/www.php
+0 1 0 44334 0 0
+/qaq.php
+0 1 0 44334 0 0
+/phpMyadmi/
+0 1 0 44334 0 0
+/myadmin/scripts/db___.init.php
+0 1 0 44334 0 0
+/pma2014/
+0 1 0 40521 0 0
+/version
+0 1 19260672 59493 1 0
+/pma/scripts/setup.php
+0 3 0 96121 0 0
+/preguntas-frecuentes/
+0 13 0 575489 8 3
+/framework/imagenes/imagen_card/update/conocesofgem.png
+1 15 19250064 486416 0 0
+/dp.php
+0 1 0 44334 0 0
+/sbb/
+0 1 0 44334 0 0
+/my.php
+0 1 0 44334 0 0
+/jjj.php
+0 1 0 44334 0 0
+/phpmyadmin2013/
+0 1 0 40521 0 0
+/framework/imagenes/rectangular/16.png
+1 193 0 5195628 0 0
+/bps.php
+0 1 0 40949 0 1
+/xmlrpc.php
+0 81592 0 3667666753 28 23
+/PMA2011/scripts/setup.php
+0 1 0 41150 0 0
+/framework/imagenes/bannerUp/confian.jpg
+1 84 0 1701974 0 0
+/shellmanger.php
+0 1 0 40940 0 0
+/888.php
+0 1 0 44334 0 0
+/wp-content/plugins/duplicator/readme.txt
+0 6 0 255882 0 0
+/axmlprc.php
+0 1 19057216 45988 0 0
+/wp-content/uploads/2018/06/Repuestos-Oriente-min.png
+1 3 0 15417 0 0
+/php-my-admin/
+0 1 0 40521 0 0
+/mysql/dbadmin/
+0 2 0 84855 0 0
+/mensaje_invitado
+0 47 0 1739 0 0
+/cmdd.php
+0 1 0 44334 0 0
+/PHPMYADMIN/scripts/setup.php
+0 1 0 41150 0 0
+/welcome/encuesta
+0 1 0 10637 0 0
+/phpMyAdmin/phpMyAdmin/
+0 1 0 44334 0 0
+/framework/imagenes/bannerUp/3.png
+1 164 0 64026996 0 0
+/xmlrpcs.php
+0 5 0 211513 4 0
+/framework/imagenes/bannerUp/verde.png
+1 85 0 14339663 0 0
+/framework/imagenes/modal/escalado1.png
+1 90 0 2817408 0 0
+/https://www.sofgem.cl/framework/imagenes/banner/img_2.png
+1 1 0 45988 0 0
+/feed
+0 1 0 40949 1 0
+/framework/imagenes/rectangular/4.png
+1 198 0 8226326 0 0
+/welcome/editar_perfil_clientes
+0 3 0 58636 0 0
+/phpmyadmin2015/
+0 1 0 40521 0 0
+/welcome/cambiar_contrasenas
+0 2 0 22976 0 0
+/ppl.php
+0 1 0 44334 0 0
+/phpMyAdmin/scripts/config.inc.php
+0 1 0 41150 0 0
+/composer.php
+0 1 0 44334 0 0
+/Cliente/Login
+0 2 0 86065 2 0
+/phpMyAdmin_111/
+0 1 0 44334 0 0
+/phpmyadmin2014/
+0 1 0 40521 0 0
+/xsser.php
+0 1 0 44334 0 0
+/https://www.sofgem.cl/framework/imagenes/bannerUp/largo1.png
+1 1 0 45988 0 0
+/include/new_side.php
+0 1 0 40940 0 0
+/cms/wp-includes/wlwmanifest.xml
+0 2 0 51158 0 0
+/framework/imagenes/bannerUp/caja.png
+1 37 0 4740030 0 0
+/mysql/admin/scripts/setup.php
+0 1 0 41150 0 0
+/cmd.php
+0 2 0 88668 0 0
+/ioi.php
+0 1 0 44334 0 0
+/up__vofqx.php
+0 1 0 40940 0 0
+/shell
+0 1 0 44361 1 0
+/framework/imagenes/bannerUp/planesin.png
+1 28 0 4728035 0 0
+/phpMyAdmin_ai/
+0 1 0 44334 0 0
+/wp-content/uploads/2018/06/Kross-Definitivoooo-min.png
+1 3 0 89919 0 0
+/wp-content/uploads/2018/06/Panaderia-Don-Diego-min.png
+1 2 0 22283 0 0
+/PMA2014/
+0 1 0 40521 0 0
+/phpMyAdm1n/
+0 1 0 44334 0 0
+/framework/imagenes/modal/icono3.png
+1 5 0 89892 0 0
+/sql/myadmin/
+0 1 0 40521 0 0
+/efecto/fonts/codropsicons/codropsicons.woff
+0 1 0 2072 0 0
+/.well-known/assetlinks.json
+0 2 0 81889 0 0
+/welcome/index
+0 380 0 14971776 37 35
+/
+0 1595 0 64482409 750 290
+/bb.php
+0 1 0 44334 0 0
+/framework/imagenes/cuadrado/pequeno/17.jpg
+1 196 0 1932450 0 0
+/framework/imagenes/equipo/matias.png
+1 150 0 37280342 0 0
+/sheep.php
+0 1 0 44334 0 0
+/wp-config.phpoldd
+0 1 0 45988 0 0
+/wpc.php
+0 1 0 44334 0 0
+/welcome/planes
+0 53 0 699780 3 3
+/wp-json/trx_addons/v2/get/sc_layout
+0 1 0 44332 0 0
+/echo.php
+0 1 0 40940 1 0
+/phpmyadmin2019/
+0 1 0 40521 0 0
+/phpMyAdmin3/
+0 1 0 40521 0 0
+/pp.php
+0 1 0 44334 0 0
+/meijianxue.php
+0 1 0 44334 0 0
+/phpMyAdmin-2.5.5/scripts/setup.php
+0 1 0 41150 0 0
+/mysql/db/
+0 1 0 40521 0 0
+/99.php
+0 1 0 44334 0 0
+/framework/fonts/roboto/Roboto-Light.woff
+0 771 0 34584516 0 0
+/db/phpmyadmin3/
+0 1 0 40521 0 0
+/887.php
+0 1 0 44334 0 0
+/mysql/web/
+0 1 0 40521 0 0
+/wp-content/plugins/easyrotator-for-wordpress/up.php
+0 1 18849376 45988 0 0
+/wp-content/uploads/2018/06/cropped-logo-Sofgem-OP-1-32x32.png
+1 2 0 47067 0 0
+/framework/imagenes/modal/5.png
+1 155 0 24826510 0 0
+/framework/imagenes/bannerUp/perrosinmac.png
+1 142 0 92625615 0 0
+/wp/
+0 2 0 51634 0 0
+/9678.php
+0 1 0 44334 0 0
+/phpmyadmin2/scripts/setup.php
+0 1 0 41150 0 0
+/framework/css/personalizado.css
+0 351 0 592100 0 0
+/wp-content/uploads/2018/06/Sergio-Fuentes-min.png
+1 3 0 67951 0 0
+/z.php
+0 1 0 44334 0 0
+/framework/imagenes/bannerUp/ancho1.png
+1 11 0 1327512 0 0
+/efecto/css/default.css
+0 1 0 2843 0 0
+/framework/imagenes/cuadrado/6.png
+1 200 0 9975870 0 0
+/phpadmin/scripts/setup.php
+0 1 0 41150 0 0
+/framework/imagenes/cuadrado/aitue.jpg
+1 214 0 725157 0 0
+/phpMyAdmin/scripts/db___.init.php
+0 2 0 85484 0 0
+/phpMyAdmin4.8.1/
+0 1 0 44334 0 0
+/welcome/inicio_sesion_general
+0 86 0 966137 14 4
+/mysqlmanager/
+0 1 0 40521 0 0
+/MySQLAdmin/
+0 1 0 44334 0 0
+/codules.php
+0 1 0 10637 1 1
+/framework/imagenes/imagen_card/7.png
+1 31 0 4037462 0 0
+/phpAdmin/scripts/setup.php
+0 1 0 41150 0 0
+/wp-content/uploads/2018/06/Rodacar-min.png
+1 4 0 114205 0 0
+/rsau.php
+0 1 0 44332 1 0
+/wp-content/uploads/2018/06/cropped-logo-Sofgem-OP-1-180x180.png
+1 5 0 226559 0 0
+/wp-content/plugins/wp-levoslideshow/license.txt
+0 1 0 40521 0 0
+/Joomla/
+0 4 0 177336 0 0
+/framework/imagenes/cuadrado/pequeno/15.png
+1 199 0 9073548 0 0
+/phpmyadmin3333/
+0 1 0 44334 0 0
+/scripts/db___.init.php
+0 1 0 44334 0 0
+/comments/feed/
+0 4 0 177710 3 1
+/2phpmyadmin/scripts/setup.php
+0 1 3330192233326981421 41150 0 0
+/wp-content/plugins/themegrill-demo-importer/assets/js/admin/demo-importer.js
+0 1 3329623578898333696 44332 0 0
+/framework/fonts/roboto/Roboto-Medium.woff2
+0 755 108 25641507 0 0
+/wp-content/uploads/2018/06/Rodar-min.png
+1 2 127978989056628 22173 0 0
+/https://www.sofgem.cl/framework/imagenes/cuadrado/14.png
+1 1 7162130782402641920 45988 0 0
+/forums/
+0 1 7349874591868649472 44334 0 0
+/~/phpmanager/scripts/setup.php
+0 1 8032840007778461044 41150 0 0
+/b.php
+0 1 0 44334 0 0
+/wp-content/themes/twentyseventeen-child/style.css
+0 5 0 155163 0 0
+/wp-content/themes/twentyseventeen/assets/js/navigation.js
+0 2 0 14391 0 0
+/phpmyadmin/scripts/setup.php
+0 3 0 96121 0 0
+/pma/scripts/db___.init.php
+0 1 0 44334 0 0
+/ddd.php
+0 1 0 44334 0 0
+/phpMyAdminn/
+0 1 0 44334 0 0
+/yu.php
+0 1 0 44334 0 0
+/phpmyadmin4/scripts/setup.php
+0 1 0 41150 0 0
+/blog/wp-includes/wlwmanifest.xml
+0 2 0 51158 0 0
+/welcome/planess
+0 2 0 49206 0 0
+/wp-content/uploads/2018/06/Importadora-Guzman-min.png
+1 4 0 118238 0 0
+/seeyon/htmlofficeservlet
+0 1 0 44334 0 0
+/sql/sql-admin/
+0 1 0 40521 0 0
+/https://www.sofgem.cl/framework/slick/slick.min.js
+0 1 0 45988 0 0
+/framework/imagenes/modal/icono.png
+1 30 0 493607 0 0
+/welcome/cambiar_contrasena
+0 14 0 184023 0 0
+/wp-includes/pomo/
+0 1 0 40940 1 1
+/hetlerx.php
+0 1 19106032 45988 1 1
+/wp-content/plugins/mainwp-child/readme.txt
+0 1 18782960 59493 0 0
+/lang.php
+0 1 0 44334 0 0
+/phpMyAdmin._2/
+0 1 0 44334 0 0
+/coonig.php
+0 1 0 44334 0 0
+/MyAdmin/scripts/db___.init.php
+0 1 0 44334 0 0
+/PMA2011/
+0 1 0 40521 0 0
+/phpmyadmin2011/
+0 1 0 40521 0 0
+/sql/phpMyAdmin2/
+0 1 0 40521 0 0
+/framework/imagenes/bannerUp/plananualoficial.jpg
+1 5 0 252495 0 0
+/PMA2012/
+0 1 0 40521 0 0
+/hola-mundo/
+0 5 0 221718 4 1
+/__phpMyAdmin/
+0 1 0 44334 0 0
+/cacti/plugins/weathermap/editor.php
+0 1 0 44334 0 0
+/wp-content/plugins/wp-advanced-search/js/ajaxTrigger.js
+0 1 0 44332 0 0
+/framework/fonts/roboto/Roboto-Thin.woff2
+0 2 0 63056 0 0
+/phpMyAdmin1/
+0 1 0 44334 0 0
+/ftmabc.php
+0 1 0 44334 0 0
+/PMA/
+0 2 0 84855 0 0
+/rulkszqcey.php
+0 1 0 40940 0 0
+/framework/imagenes/imagen_card/2.png
+1 30 0 4972214 0 0
+/welcome/preguntas_frecuentes
+0 85 0 1524686 9 2
+/system_api.php
+0 1 0 44361 0 0
+/vpma9.php
+0 1 0 40940 0 0
+/efecto/images/1.png
+1 1 0 9721 0 0
+/phpMyAdmin-2.11.1-all-languages/scripts/setup.php
+0 1 0 41150 0 0
+/admin/db/
+0 1 0 40521 0 0
+/s.php
+0 1 0 44334 0 0
+/PMA2018/
+0 1 0 40521 0 0
+/phpmyadmin3/
+0 1 0 40521 0 0
+/framework/imagenes/bannerUp/planmensual1.png
+1 12 0 1049418 0 0
+/noname.php
+0 1 0 40940 0 0
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+0 3 0 132905 3 1
+/shh.php
+0 1 0 44334 0 0
+/framework/imagenes/bannerUp/confiannosotros1.png
+1 108 0 4970862 0 0
+/framework/imagenes/rectangular/9.png
+1 197 0 16844044 0 0
+/wp-content/uploads/2018/06/Galpones-Talca-min.png
+1 2 0 55687 0 0
+/sql/sqladmin/
+0 1 0 40521 0 0
+/framework/imagenes/rectangular/13.png
+1 204 0 9978752 0 0
+/wp-content/themes/twentyseventeen-child/bootstrap/js/bootstrap.min.js
+0 2 0 59581 0 0
+/setup.php
+0 1 0 41150 0 0
+/desktop.ini.php
+0 1 0 44334 0 0
+/5678.php
+0 1 0 44334 0 0
+/mysql-admin/
+0 2 0 84855 0 0
+/https://www.sofgem.cl/efecto/js/modernizr.custom.js
+0 1 0 45988 0 0
+/wp-content/themes/chihua/db.php
+0 1 0 40521 1 0
+/framework/imagenes/cuadrado/5.png
+1 201 0 14041400 0 0
+/clientaccesspolicy.xml
+0 1 0 45988 0 0
+/robots.txt
+0 396 0 15877580 0 0
+/sql/sql/
+0 1 0 40521 0 0
+/qwq.php
+0 1 0 44334 0 0
+/wp-admin/profile.php
+0 2 0 88664 0 0
+/blackhat.php
+0 1 0 40940 0 0
+/phppma/scripts/setup.php
+0 1 0 41150 0 0
+/MyAdmin/
+0 1 0 40521 0 0
+/scripts/setup.php
+0 2 0 85484 0 0
+/Cliente/Login/
+0 6 0 178392 3 1
+/wp-content/uploads/2018/06/cropped-logo-Sofgem-OP-1-192x192.png
+1 3 0 137336 0 0
+/t6nv.php
+0 1 0 44334 0 0
+/hudson
+0 1 0 43992 1 0
+/feed/
+0 3 0 128301 2 2
+/manager/html
+0 5 0 216544 4 0
+/websql/
+0 1 0 44334 0 0
+/phpmyadmin2016/
+0 1 0 40521 0 0
+/wp-content/plugins/iwp-client/readme.txt
+0 1 0 45988 0 0
+/bbr.php
+0 1 0 44334 0 0
+/phpMyAdmln/
+0 1 0 44334 0 0
+/phpMyAdmin4.8.5/
+0 1 0 44334 0 0
+/wp-content/uploads/2018/06/Electricidad-Talca-min.png
+1 2 0 41497 0 0
+/wp-content/plugins/wp-time-capsule/readme.txt
+0 1 19223984 46840 0 0
+/2phpmyadmin/
+0 1 0 40521 0 0
+/framework/imagenes/bannerUp/banneranual.png
+1 15 0 2573994 0 0
+/page-sitemap.xml
+0 1 0 40521 0 0
+/wp-content/uploads/2018/06/logo-misters-min.jpg
+1 3 0 29389 0 0
+/welcome/administradors
+0 3 0 28683 0 0
+/web/phpMyAdmin/
+0 1 0 44334 0 0
+/98k.php
+0 1 0 44334 0 0
+/wp-content/uploads/2018/07/llamado-accion-SofGem.jpg
+1 1 0 75308 0 0
+/wp-content/uploads/2018/06/logo-ferreteria-parral-min.png
+1 4 0 95370 0 0
+/App/sesion.php
+0 6 0 169506 3 1
+/framework/imagenes/cuadrado/8.png
+1 201 0 9247200 0 0
+/hue2.php
+0 1 0 44334 0 0
+/woshimengmei.php
+0 1 0 44334 0 0
+/phpmyadmin2018/
+0 1 0 40521 0 0
+/wp-includes/class.wp-date.php
+0 1 0 40949 1 1
+/wordpress/xmlrpc.php
+0 1 0 44332 1 0
+/weathermap/editor.php
+0 1 0 44334 0 0
+/framework/imagenes/bannerUp/largo1.png
+1 104 0 8710584 0 0
+/framework/imagenes/rectangular/pequeno/5.png
+1 192 0 6818891 0 0
+/wp-content/uploads/2018/06/Bombas-Lagos-min.png
+1 2 0 28201 0 0
+/wp-cron.php
+0 27 0 0 12 11
+/wp-content/uploads/2018/06/Full-Gomas-min.png
+1 2 0 42760 0 0
+/sql/php-myadmin/
+0 1 0 40521 0 0
+/app.php
+0 1 0 44334 0 0
+/aa.php
+0 1 0 44334 0 0
+/framework/js/materialize.min.js
+0 223 0 34673368 0 0
+/claroline/phpMyAdmin/
+0 1 0 44334 0 0
+/wp-content/uploads/2018/07/serv-Denarium.jpg
+1 3 0 106545 0 0
+/admin/web/
+0 1 0 40521 0 0
+/framework/imagenes/imagen_card/update/2.png
+1 17 19249360 594176 0 0
+/xiu.php
+0 1 0 44334 0 0
+/.well-known/acme-challenge/WLMg1RU4GOR_HIvWcXXpD-BjXkuN_4mvH3kOfte5JgY
+0 4 0 40736 0 0
+/phpmyadmin/scripts/db___.init.php
+0 2 0 85484 0 0
+/wp-admin/admin-ajax.php
+0 13 0 44404 5 5
+/wp-content/uploads/2018/06/Walter-Douglas-min.png
+1 3 0 41287 0 0
+/phpmyadmin2017/
+0 1 0 40521 0 0
+/wp-content/
+0 1 0 44361 1 1
+/phpMyAds/scripts/setup.php
+0 1 0 41150 0 0
+/framework/imagenes/bannerUp/anualtest.jpg
+1 96 0 3771922 0 0
+/framework/imagenes/imagen_card/8.png
+1 27 0 2772066 0 0
+/wolfm.php
+0 1 0 40940 0 0
+/framework/imagenes/modal/icono5.png
+1 5 0 64356 0 0
+/p/m/a/scripts/setup.php
+0 1 0 41150 0 0
+/pma2015/
+0 1 0 40521 0 0
+/pma-old/
+0 1 0 44334 0 0
+/framework/slick/fonts/slick.ttf
+0 92 0 3827489 0 0
+/wp-content/plugins/bp-cover/css/license.txt
+0 1 0 40521 0 0
+/framework/imagenes/equipo/gonzalo.png
+1 145 0 26401458 0 0
+/wp-content/plugins/ulisting/README.txt
+0 1 3274232377819267072 40521 0 0
+/admin/pma/
+0 1 470020206195 44334 0 0
+/pma2017/
+0 1 3256996649958178816 40521 0 0
+/db/webadmin/
+0 1 3346863016919790126 40521 0 0
+/framework/imagenes/imagen_card/update/ventasticket.png
+1 17 19249792 1134768 0 0
+/hgx.php
+0 1 3256446888939960369 44334 0 0
+/muhstik2.php
+0 1 30803244233226081 44334 0 0
+/framework/imagenes/cuadrado/pequeno/8.png
+1 203 0 15210398 0 0
+/images/stories/filemga.php
+0 1 0 44334 0 0
+/dbadmin/scripts/setup.php
+0 1 0 41150 0 0
+/welcome/prueba
+0 2 0 6068 0 0
+/laravel.php
+0 1 0 44334 0 0
+/wp-content/uploads/2018/06/serv-RFID.jpg
+1 2 0 91280 0 0
+/author/franco/
+0 1 0 10637 1 1
+/PMA2015/
+0 1 0 40521 0 0
+/update.php
+0 1 0 45988 1 1
+/1ts.php
+0 1 0 44334 0 0
+/a411.php
+0 1 0 44334 0 0
+/admin/pMA/
+0 1 0 40521 0 0
+/muhstik.php
+0 2 0 88668 0 0
+/contacto/
+0 25 0 1028046 14 6
+/framework/imagenes/bannerUp/plananual1.jpg
+1 8 0 499400 0 0
+/framework/imagenes/icono/1.png
+1 179 0 5145913 0 0
+/wp-content/themes/twentythirteen/404.php
+0 1 19223552 46840 0 1
+/python.php
+0 1 0 44334 0 0
+/wp-content/uploads/2018/06/Gaziper-min.png
+1 3 0 68941 0 0
+/mysqladmin/
+0 2 0 84855 0 0
+/phpmyadmin4/
+0 1 0 40521 0 0
+/wp-content/uploads/2018/06/Ancar-Bordados-min.png
+1 2 0 26816 0 0
+/welcome/listado_encuesta
+0 14 0 152722 0 0
+/administrator/admin/
+0 1 0 40521 0 0
+# End Of Table - urls
+# -sites- (monthly)
+msnbot-40-77-167-204.search.msn.com
+0 6 6 330350 4 1585214970
+/
+62-210-177-12.rev.poneytelecom.eu
+0 1 1 10637 1 1584974226
+/wp-json/wp/v2/users/
+191-126-99-38.bam.movistar.cl
+0 73 73 12547906 1 1584125877
+/
+ip-54-36-148-40.a.ahrefs.com
+0 1 1 40963 0 0
+-
+crawl17.bl.semrush.com
+0 3 3 89285 1 1585266039
+/welcome/inicio_sesion_general
+217.80.196.35.bc.googleusercontent.com
+0 5 5 132416 1 1585447320
+/welcome/index
+179-106-107-165.spdlink.com.br
+0 1 1 38539 1 1585032686
+/
+80.82.68.215
+0 1 1 47016 1 1585564530
+/wp-content/plugins/dzs-zoomsounds/ajax.php
+axntech-dynamic-7.106.113.103.axntechnologies.in
+0 1 1 38539 1 1585036833
+/
+client-186-11-40-212.imovil.entelpcs.cl
+0 6 0 0 1 1585613568
+-
+201-246-218-2.baf.movistar.cl
+0 1816 1187 116021835 5 1584997497
+/
+66.151.211.170
+0 6 6 0 0 0
+-
+43.245.222.163
+0 15 4 255461 1 1584902878
+/
+141.98.10.43
+0 1 1 43928 1 1585516635
+/
+aurum110.a.ahrefs.com
+0 4 4 86428 4 1585607529
+/welcome/preguntas_frecuentes
+ip-54-36-148-239.a.ahrefs.com
+0 1 1 44332 0 0
+-
+45.232.32.144
+0 98 98 17519678 1 1585160799
+/
+89.22.202.200
+0 1 1 38889 1 1585175343
+/
+superamo.sofgem.cl
+0 40 39 283 17 1584956009
+/wp-cron.php
+ip-54-36-149-39.a.ahrefs.com
+0 1 1 40521 0 0
+-
+static-167-250-10-74.v4.naclick.com.br
+0 1 1 43928 1 1585503633
+/
+222.82.80.240
+0 1 1 40521 0 0
+-
+pc-167-149-100-190.cm.vtr.net
+0 5 0 0 2 1585002235
+-
+185.39.11.187
+0 1 1 40949 0 0
+-
+scan-15n.shadowserver.org
+0 1 1 42301 1 1585271020
+/
+jobqueue-listener.jobqueue.netcraft.com-u9fa9148871cb11ea84294513838d6ab1u-digitalocean
+0 1 1 0 1 1585498805
+/
+pc-173-206-161-190.cm.vtr.net
+0 1 0 0 1 1585495486
+-
+45.124.168.224
+0 1 1 43928 1 1585537254
+/
+ecs-114-119-167-209.compute.hwclouds-dns.com
+0 1 1 44332 0 0
+-
+ip-54-36-149-73.a.ahrefs.com
+0 1 1 42272 1 1585390630
+/
+ip-54-36-150-85.a.ahrefs.com
+0 1 1 43928 1 1585527918
+/
+pe-bernardo-go-138-118-100-139.linenet.com.br
+0 1 1 38961 1 1585144745
+/
+client-186-11-101-72.imovil.entelpcs.cl
+0 1 0 0 1 1585305337
+-
+51.141.168.166
+0 3 3 131784 1 1585412576
+/
+196.52.43.99.netsystemsresearch.com
+0 1 1 42272 1 1585388001
+/
+ec2-54-187-228-153.us-west-2.compute.amazonaws.com
+0 1 1 42272 1 1585394605
+/
+ec2-18-217-159-176.us-east-2.compute.amazonaws.com
+0 1 1 43928 1 1585469958
+/
+186.235.82.136.brava.net.br
+0 1 1 43928 1 1585480818
+/
+161.131.0.240
+0 1 0 0 1 1585139960
+-
+ecs-114-119-165-34.compute.hwclouds-dns.com
+0 1 1 38539 1 1585057510
+/
+ec2-54-71-175-27.us-west-2.compute.amazonaws.com
+0 2 2 89560 1 1585575701
+/
+161.165.74.34.bc.googleusercontent.com
+0 5 5 132416 1 1585559015
+/welcome/index
+201-46-96-29.ruralwebtelecom.com.br
+0 1 1 38889 1 1585175192
+/
+98.190-94-144.etapanet.net
+0 1 1 38539 1 1585040789
+/
+104.ip-142-44-163.net
+0 2 0 443 1 1585222156
+/
+client-186-11-73-169.imovil.entelpcs.cl
+0 5 0 0 2 1585507154
+-
+181-203-85-49.bam.movistar.cl
+0 173 173 30943374 1 1584577570
+/
+ecs-114-119-162-28.compute.hwclouds-dns.com
+0 1 1 38539 1 1585056950
+/
+confluence.cascadelink.net
+0 2 2 85308 1 1585309771
+/
+87.120.37.65
+0 3 2 76980 1 1584987061
+/
+ip-54-36-149-66.a.ahrefs.com
+0 1 1 40521 1 1585008058
+/contacto/
+185.99.65.252
+0 1 1 78454 1 1584953592
+/
+125.79.73.188
+0 1 0 0 1 1585506544
+-
+client-181-42-12-47.imovil.entelpcs.cl
+0 191 146 24476525 9 1584397609
+/
+45.84.196.68
+0 18 0 3987 9 1585506253
+/
+191-126-99-58.bam.movistar.cl
+0 79 79 12909849 1 1584139434
+/
+dsl-197-245-174-190.voxdsl.co.za
+0 1 1 47235 1 1585589753
+/
+209.17.97.82.rdns.cloudsystemnetworks.com
+0 1 1 38539 1 1585052137
+/
+47.99.145.71
+0 1 1 40521 1 1585059187
+/wp-login.php
+129.n6.netell.net.br
+0 1 0 226 1 1584976726
+/
+5.188.206.50
+0 1 0 226 1 1585224781
+/
+181-203-85-217.bam.movistar.cl
+0 92 92 16426313 1 1584723133
+/welcome/index
+239.99.210.35.bc.googleusercontent.com
+0 2 2 81898 1 1585197660
+/consulta-tu-dte
+183.138.46.253
+0 1 1 40950 0 0
+-
+167.114.89.207
+0 1 1 45988 0 0
+-
+163-172-119-161.rev.poneytelecom.eu
+0 1 1 44334 1 1585312287
+/wp-content/plugins/dzs-zoomsounds/ajax.php
+214.89.114.112.broad.km.yn.dynamic.163data.com.cn
+0 1 1 67 0 0
+-
+client-186-11-16-251.imovil.entelpcs.cl
+0 1 1 38407 1 1584648936
+/welcome/index
+ec2-52-15-254-228.us-east-2.compute.amazonaws.com
+0 2 2 20368 0 0
+-
+175.184.167.95
+0 1 0 40940 1 1585089220
+/
+201-246-242-74.baf.movistar.cl
+0 3004 2822 405066681 10 1584578042
+/welcome/index
+241.56.210.35.bc.googleusercontent.com
+0 4 4 169232 2 1585350060
+/
+164.52.24.162
+0 1 1 42301 1 1585289279
+/
+client-186-11-41-200.imovil.entelpcs.cl
+0 1 0 0 1 1585256923
+-
+100-43-85-120.spider.yandex.com
+0 2 2 86662 1 1585304874
+/
+msnbot-207-46-13-176.search.msn.com
+0 5 5 194730 3 1585246303
+/
+191.116.62.5
+0 2 0 0 1 1585091215
+-
+62.60.173.133
+0 2 2 38889 1 1585188514
+/
+201-246-192-194.baf.movistar.cl
+0 1182 963 110107355 4 1585595154
+/
+crawl23.bl.semrush.com
+0 1 1 40940 0 0
+-
+unn-84-17-51-65.cdn77.com
+0 2 2 51297 1 1585058911
+/welcome/contacto
+40.94.227.75
+0 20 20 3328275 0 0
+-
+54.174.54.37
+0 1 1 0 1 1585008724
+/
+msnbot-207-46-13-180.search.msn.com
+0 1 1 11422 0 0
+-
+176-112-231-92.dynamic-pppoe.itce.ru
+0 1 1 43928 1 1585551615
+/
+pc-217-164-46-190.cm.vtr.net
+0 1 1 38539 1 1585028362
+/
+pc-103-84-239-201.cm.vtr.net
+0 76 76 12858333 1 1584049429
+/
+msnbot-207-46-13-227.search.msn.com
+0 3 3 682183 0 0
+-
+117.131.93.42
+0 1 1 59493 0 0
+-
+crawl14.bl.semrush.com
+0 1 1 43928 1 1585528137
+/welcome/index
+ec2-54-188-136-223.us-west-2.compute.amazonaws.com
+0 1 1 38880 1 1585131278
+/
+40.94.227.5
+0 37 37 7206716 0 0
+-
+pc-8-57-101-190.cm.vtr.net
+0 3 0 0 2 1585423475
+-
+ip-54-36-149-29.a.ahrefs.com
+0 1 1 38539 1 1585002446
+/
+pc-13-202-163-190.cm.vtr.net
+0 5707 5525 657132509 17 1585567806
+/
+177-128-227-101.hz.net.br
+0 1 1 78454 1 1584925933
+/
+scan.ampereinnotech.com
+0 8 0 0 1 1584933646
+/
+201.219.233.48
+0 229 223 37800686 1 1585405782
+/welcome/index
+5.182.211.203
+0 4 0 886 1 1585567730
+/
+ec2-3-15-188-86.us-east-2.compute.amazonaws.com
+0 17 17 635297 1 1585184644
+/welcome/contacto
+40.94.227.24
+0 26 26 5816803 0 0
+-
+68.183.114.99
+0 2 2 38889 1 1585168184
+/
+46-118-239-91.broadband.kyivstar.net
+0 3 3 122820 1 1585128005
+/App/
+client-186-11-15-33.imovil.entelpcs.cl
+0 17 0 0 3 1585086302
+-
+80.92.234.47
+0 1 1 38961 1 1585137898
+/
+168.196.201.138
+0 98 95 16847431 1 1585341825
+-
+155.254.233.35.bc.googleusercontent.com
+0 1 1 38890 1 1585230386
+/
+client-181-42-22-201.imovil.entelpcs.cl
+0 5 0 0 1 1585483089
+-
+214.30.158.27.broad.zz.fj.dynamic.163data.com.cn
+0 1 1 44332 0 0
+-
+crawl-66-249-66-159.googlebot.com
+0 68 64 6047458 5 1585550932
+/
+crawl12.bl.semrush.com
+0 2 2 83212 2 1585370465
+/
+5.188.84.130
+0 1 1 66831 1 1584919501
+/preguntas-frecuentes/
+ec2-18-144-88-130.us-west-1.compute.amazonaws.com
+0 1 1 40949 1 1585178286
+/vpn/
+52.237.141.224
+0 9 9 360725 1 1584989253
+/
+190.130.26.116
+0 1 1 38880 1 1585097666
+/
+vps24.stratanet.cl
+0 2 2 79820 1 1585075602
+/HNAP1/
+ip-54-36-149-16.a.ahrefs.com
+0 1 1 43928 1 1585506909
+/
+msnbot-40-77-167-215.search.msn.com
+0 1 1 18142 1 1585324782
+/welcome/preguntas_frecuentes
+188.94.33.54
+0 1 1 78454 1 1584919859
+/
+99.100.196.104.bc.googleusercontent.com
+0 4 4 159640 1 1585132733
+/
+182.161.66.103
+0 1 1 43928 1 1585521882
+/
+47.94.98.14
+0 1 1 46840 0 0
+-
+117.95.100.85
+0 1 0 0 1 1584921713
+-
+69.147.131.61.dial.yc.jx.dynamic.163data.com.cn
+0 1 0 0 1 1585110539
+-
+ns329906.ip-37-187-118.eu
+0 14506 14473 518616378 3 1585305329
+/xmlrpc.php
+17-58-96-68.applebot.apple.com
+0 1 1 40521 0 0
+-
+ip-54-36-150-76.a.ahrefs.com
+0 1 1 17925 1 1585123277
+/welcome/preguntas_frecuentes
+node-j4s.pool-1-1.dynamic.totinternet.net
+0 1 0 226 1 1585607781
+-
+115.153.29.234
+0 1 1 45988 0 0
+-
+ec2-18-218-141-228.us-east-2.compute.amazonaws.com
+0 1 1 39221 1 1584967887
+/
+static-adsl201-184-155-194.une.net.co
+0 1 1 43928 1 1585528461
+/
+ip-54-36-150-154.a.ahrefs.com
+0 1 1 12836 1 1585162886
+/welcome/contacto
+185.220.101.4
+0 1 1 44361 0 0
+-
+ip-178-112-68-164.static.contabo.net
+0 2 1 43928 2 1585526647
+/
+200.111.111.250
+0 122 120 18968515 1 1585571301
+-
+han1238493.lnk.telstra.net
+0 1 0 226 1 1584978294
+-
+ip-54-36-148-226.a.ahrefs.com
+0 1 1 45988 0 0
+-
+139.217.96.176
+0 4 4 175268 1 1585344854
+/
+209.17.96.98.rdns.cloudsystemnetworks.com
+0 1 1 38880 1 1585110861
+/
+152.172.83.45
+0 1 1 43928 1 1585412727
+/
+209.126.136.3
+0 2 2 95972 2 1585605510
+/
+128.81.65.34.bc.googleusercontent.com
+0 1 1 38889 1 1585209277
+/
+survey.internet-census.org
+0 19 17 846523 14 1585614851
+/
+client-186-11-94-185.imovil.entelpcs.cl
+0 70 65 13141049 1 1585142186
+-
+m3-ipmi.ber.opendns.com
+0 1 1 38756 1 1585236820
+/
+47.52.253.226
+0 3 3 83539 1 1585612292
+/welcome/contacto
+ip-54-36-148-206.a.ahrefs.com
+0 1 1 44361 0 0
+-
+bl17-116-51.dsl.telepac.pt
+0 2 2 89916 1 1585410654
+/
+ip-37-79-255-19.adsl.surnet.ru
+0 1 0 226 1 1585484256
+/
+wjb.hz.zj.cn
+0 1 0 0 1 1584920094
+/
+client-186-11-41-86.imovil.entelpcs.cl
+0 99 99 17104638 1 1585308838
+/
+crawl-66-249-66-157.googlebot.com
+0 92 91 7254972 5 1585586513
+/
+ip-54-36-148-184.a.ahrefs.com
+0 1 1 45988 0 0
+-
+162-214-14-226.unifiedlayer.com
+0 1 1 45988 1 1585429397
+/wp-login.php
+60.191.20.213
+0 1 0 0 1 1584920981
+-
+179.56.217.172
+0 8 0 0 2 1585603977
+-
+client-181-42-24-12.imovil.entelpcs.cl
+0 98 98 17519740 1 1585144827
+/
+msnbot-40-77-190-137.search.msn.com
+0 1 1 493 0 0
+-
+scan-14.shadowserver.org
+0 1 1 38880 1 1585096884
+/
+ec2-52-42-36-223.us-west-2.compute.amazonaws.com
+0 1 1 38889 1 1585162349
+/
+msnbot-40-77-167-20.search.msn.com
+0 1 1 40921 1 1585070124
+/consulta-tu-dte/
+92.118.160.29.netsystemsresearch.com
+0 1 0 226 1 1585126658
+/
+ec2-34-219-111-126.us-west-2.compute.amazonaws.com
+0 1 1 41840 1 1585306087
+/
+33.20.97.83.ro.ovo.sc
+0 6 3 125096 5 1585596264
+-
+108-161-77-158.packetlayer.net
+0 1 1 38961 1 1585141938
+/
+138.99.216.171
+0 1 1 38880 1 1585131023
+/
+ec2-34-222-229-130.us-west-2.compute.amazonaws.com
+0 2 2 20368 0 0
+-
+ec2-54-190-246-51.us-west-2.compute.amazonaws.com
+0 1 1 43928 1 1585452450
+/
+101.73.254.170.venonconnect.com
+0 1 1 42301 1 1585302465
+/
+ip-54-36-148-88.a.ahrefs.com
+0 1 1 40940 0 0
+-
+ns528401.ip-149-56-106.net
+0 3 1 41402 1 1585225019
+/
+ec2-54-202-181-169.us-west-2.compute.amazonaws.com
+0 1 1 38539 1 1584988582
+/
+123.130.98.234
+0 1 0 0 1 1585430751
+-
+45.83.64.62
+0 1 1 39254 1 1585222526
+/
+client-181-42-22-180.imovil.entelpcs.cl
+0 1 0 0 1 1585322460
+-
+z260.entelchile.net
+0 1 1 46840 0 0
+-
+190.124.31.187
+0 1 1 38880 1 1585113108
+/
+ec2-18-231-36-30.sa-east-1.compute.amazonaws.com
+0 1 1 38539 1 1585040174
+/
+177-68-37-64.dsl.telesp.net.br
+0 1 1 41932 1 1585306750
+/
+client-181-42-9-55.imovil.entelpcs.cl
+0 3 0 0 1 1585174738
+-
+201.219.233.224
+0 1 0 0 1 1585271653
+-
+189.80.149.90
+0 1 1 42272 1 1585382463
+/
+209.17.97.50.rdns.cloudsystemnetworks.com
+0 1 1 42301 1 1585281814
+/
+ec2-54-234-44-204.compute-1.amazonaws.com
+0 1 0 226 1 1584963991
+/
+li1213-53.members.linode.com
+0 2 1 0 1 1584953727
+/
+1.31.112.227
+0 1 1 40521 0 0
+-
+ip-54-36-149-82.a.ahrefs.com
+0 1 1 44332 0 0
+-
+181.75.18.162
+0 659 620 106496729 9 1585256526
+/
+124.88.113.173
+0 2 1 39106 1 1585089221
+/
+188.143.169.29
+0 4 4 172230 2 1585588336
+/
+185.95.185.193
+0 1 1 38539 1 1585001203
+/
+180.164.109.32
+0 1 1 40521 0 0
+-
+221.210.211.14
+0 1 0 527 1 1585066147
+-
+110.227.175.218
+0 1 1 43928 1 1585450885
+/
+181.74.145.41
+0 9 0 0 1 1584969869
+-
+209.17.97.2.rdns.cloudsystemnetworks.com
+0 1 1 44780 1 1585587572
+/
+83.73.237.35.bc.googleusercontent.com
+0 5 5 132416 1 1585465122
+/welcome/index
+ip-54-36-148-97.a.ahrefs.com
+0 1 1 45988 0 0
+-
+ec2-52-37-220-233.us-west-2.compute.amazonaws.com
+0 1 1 40940 0 0
+-
+ip-212-69-18-187.oriontelekom.rs
+0 1 1 42272 1 1585391618
+/
+178.156.83.18
+0 1 1 43928 1 1585525470
+/
+ip-54-36-149-4.a.ahrefs.com
+0 1 0 0 1 1584914387
+/
+179.9.112.228
+0 3 0 0 1 1585216096
+-
+74.37.60.117.dial.yz.js.dynamic.163data.com.cn
+0 1 0 0 1 1585481892
+-
+msnbot-207-46-13-162.search.msn.com
+0 10 10 446986 2 1585600535
+/
+131.196.8.19
+0 1 0 226 1 1585510958
+-
+40.94.227.59
+0 19 19 4024134 0 0
+-
+globalip103234.utalca.cl
+0 78 78 12942259 1 1584383607
+/
+94.140.114.53
+0 2 2 88708 2 1585575877
+/
+45.232.92.9
+0 5 0 0 1 1585305994
+-
+60.191.38.77
+0 2 2 87856 1 1585420185
+/
+pc-213-13-239-201.cm.vtr.net
+0 3 0 0 2 1585153652
+-
+crawl-66-249-79-246.googlebot.com
+0 18 17 776357 3 1585144054
+/welcome/index
+ip-54-36-148-208.a.ahrefs.com
+0 1 1 40521 0 0
+-
+40.94.227.40
+0 5 5 2587639 0 0
+-
+156.231.38.66
+0 2 1 42498 1 1585387430
+/
+client-186-11-110-215.imovil.entelpcs.cl
+0 95 95 16383373 2 1584726167
+/welcome/contacto
+251.153.231.35.bc.googleusercontent.com
+0 5 5 121669 1 1585088287
+/welcome/index
+37.72.18.156
+0 2 0 443 1 1585576589
+/
+client-181-42-30-33.imovil.entelpcs.cl
+0 3 0 0 1 1585257957
+-
+crawl-66-249-69-55.googlebot.com
+0 3 3 134652 0 0
+-
+122.51.215.69
+0 4 4 181892 1 1585440940
+/
+msnbot-207-46-13-97.search.msn.com
+0 1 1 40940 1 1585082500
+/App/sesion.php
+research.esrg.stanford.edu
+0 34 31 1383634 32 1585617379
+/
+msnbot-157-55-39-23.search.msn.com
+0 14 14 587996 0 0
+-
+ip-54-36-149-23.a.ahrefs.com
+0 1 1 42272 1 1585399142
+/
+client-186-11-74-165.imovil.entelpcs.cl
+0 2 0 0 1 1585345052
+-
+www22.asd.tj.cn
+0 1 0 40940 1 1585089217
+/
+client-181-42-38-243.imovil.entelpcs.cl
+0 1 0 0 1 1585167993
+-
+client-181-42-18-66.imovil.entelpcs.cl
+0 5 0 0 1 1585554187
+-
+pc-143-160-164-190.cm.vtr.net
+0 1 1 38880 1 1585091758
+/
+197.232.6.209
+0 1 1 42272 1 1585394906
+/
+201-246-219-230.baf.movistar.cl
+0 204 204 36500137 2 1584656089
+/welcome/index
+static-201-62-62-7.v4.naclick.com.br
+0 1 1 78454 1 1584938030
+/
+119.133.197.242
+0 1 1 44361 0 0
+-
+185.234.217.177
+0 1 1 40940 0 0
+-
+173.44.164.249
+0 1 1 13053 1 1585266373
+/welcome/contacto
+ip-54-36-148-102.a.ahrefs.com
+0 1 1 45988 0 0
+-
+190.151.1.102
+0 17 10 281281 1 1585399409
+-
+c-24-6-252-161.hsd1.ca.comcast.net
+0 1 1 43928 1 1585475431
+/
+ecs-114-119-165-89.compute.hwclouds-dns.com
+0 1 1 43451 1 1585401107
+/
+91.208.99.2
+0 46 46 2040606 1 1585302619
+/xmlrpc.php
+localhost
+0 1 1 40940 0 0
+-
+228.97.229.35.bc.googleusercontent.com
+0 4 4 179832 1 1585531015
+/
+201-246-250-116.baf.movistar.cl
+0 229 203 20670354 1 1584699707
+/welcome/index
+ecs-114-119-165-173.compute.hwclouds-dns.com
+0 9 9 404029 2 1585469318
+/App/sesion.php
+221.13.12.3
+0 1 0 38880 1 1585089215
+-
+181.226.16.187
+0 3 0 0 1 1585056465
+-
+ecs-114-119-160-127.compute.hwclouds-dns.com
+0 11 11 686399 1 1585121800
+/author/franco
+185.128.41.50
+0 1 1 45988 1 1585511801
+/manager/html
+czpyvulntesting.pl
+0 4 0 886 2 1585613372
+/
+internettl.org
+0 1 1 43928 1 1585539462
+/
+191-125-163-62.bam.movistar.cl
+0 2 0 0 1 1585424939
+-
+ip-54-36-148-25.a.ahrefs.com
+0 2 2 88289 1 1585275031
+/
+scan-67.security.ipip.net
+0 1 1 43928 1 1585497457
+/
+msnbot-157-55-39-87.search.msn.com
+0 3 3 372269 0 0
+-
+80.82.68.71
+0 6 6 165052 1 1585131574
+/
+msnbot-157-55-39-75.search.msn.com
+0 9 9 282435 7 1585205319
+/
+181.226.16.227
+0 2 0 0 2 1585346274
+-
+pc-236-12-239-201.cm.vtr.net
+0 1 0 0 1 1584968626
+-
+sh-phx-us-gp1-wk112.internet-census.org
+0 1 1 57433 1 1585613318
+/
+64.26.151.55
+0 1 1 42301 1 1585302235
+/
+185-46-169-84.dg-net.pl
+0 1 1 43928 1 1585502327
+/
+201-246-252-206.baf.movistar.cl
+0 1811 1567 211861361 6 1585256630
+-
+ip-54-36-150-72.a.ahrefs.com
+0 1 1 38539 1 1584999711
+/
+crawl-66-249-66-134.googlebot.com
+0 4 4 117666 1 1585026259
+/
+malquaesitum.com
+0 1 0 58825 1 1584927024
+-
+152.173.126.78
+0 5 0 0 1 1585551698
+-
+czpypentesting.com
+0 10 0 2215 5 1585575142
+/
+207.148.93.8.vultr.com
+0 1 0 0 1 1584948673
+-
+49.51.9.157
+0 1 1 42301 1 1585277128
+/
+183.ip-51-68-120.eu
+0 1 1 44780 1 1585583764
+/
+185.88.102.245
+0 1 1 38889 1 1585198840
+/
+147.158.190.35.bc.googleusercontent.com
+0 4 4 158120 1 1585053962
+/
+pool-138-88-181-243.washdc.fios.verizon.net
+0 1 0 226 1 1585351326
+/
+pc-102-44-74-200.cm.vtr.net
+0 215 212 34959240 1 1584989185
+/
+100yellow.com
+0 1 1 40521 1 1585000192
+/wp-content/themes/chihua/db.php
+sh-ams-us-gp1-wk113.internet-census.org
+0 1 1 38880 1 1585124145
+/
+159.203.98.50
+0 8 8 387768 1 1585483534
+/
+111.229.119.236
+0 4 4 160102 1 1585040388
+/
+crawl11.bl.semrush.com
+0 3 3 95909 2 1585134847
+/Cliente/Login/validar.php
+585.gra1.ovh.abcd.network
+0 1 1 38539 1 1584995668
+/
+crawl-66-249-73-89.googlebot.com
+0 3 3 118727 2 1585204594
+/
+87.246.33.219
+0 1 0 226 1 1584907148
+/
+194.15.36.113
+0 2 0 443 1 1585596492
+/
+159.89.16.121
+0 1 1 43928 1 1585562269
+/
+host-5-58-14-24.bitternet.ua
+0 1 1 42301 1 1585264671
+/
+ec2-3-226-241-231.compute-1.amazonaws.com
+0 1 1 44780 1 1585572526
+/
+176.127.73.34.bc.googleusercontent.com
+0 4 4 173208 1 1585320682
+/
+google-proxy-66-249-85-21.google.com
+0 1 1 37460 1 1584126141
+/
+191-126-99-52.bam.movistar.cl
+0 100 94 17057806 1 1585306989
+-
+ip-54-36-150-52.a.ahrefs.com
+0 1 1 38539 1 1584991289
+/
+181-203-94-240.bam.movistar.cl
+0 1 0 0 1 1584964032
+-
+ecs-114-119-161-188.compute.hwclouds-dns.com
+0 9 9 523754 3 1585586545
+/Cliente/Login
+45.232.153.37
+0 1 1 45055 1 1585569229
+/
+95.85.8.239
+0 1 1 59493 1 1585616792
+/wp-login.php
+1.193.114.155
+0 2 0 443 1 1585586650
+/
+zg-0312b-101.stretchoid.com
+0 1 1 43928 1 1585408946
+/
+106.57.151.44
+0 1 1 45988 0 0
+-
+96-83-229-181.cab.prima.com.ar
+0 2 1 78473 1 1584943428
+/
+static.137.244.251.148.clients.your-server.de
+0 4 4 175268 1 1585361417
+/hola-mundo/
+client-186-11-113-235.imovil.entelpcs.cl
+0 1 0 0 1 1585018053
+-
+185-163-47-200.mivocloud.com
+0 6 0 1329 3 1585398815
+/
+host86-188-109-208.range86-188.btcentralplus.com
+0 1 0 226 1 1584971015
+/
+crawl-66-249-79-87.googlebot.com
+0 3 3 120236 1 1585067335
+/
+static.239.41.251.148.clients.your-server.de
+0 5 5 132416 1 1585558525
+/welcome/preguntas_frecuentes
+client-186-11-43-160.imovil.entelpcs.cl
+0 78 78 12942259 1 1584383368
+/
+191-126-227-183.bam.movistar.cl
+0 78 78 12896929 2 1584045295
+/
+181.226.16.237
+0 13 0 0 4 1585356712
+-
+ec2-52-41-211-72.us-west-2.compute.amazonaws.com
+0 4 4 0 4 1585306089
+/
+92.ip-137-74-46.eu
+0 2 0 443 1 1585246976
+/
+123.160.234.105
+0 2 1 39106 1 1585089224
+/
+dsl-189-131-147-78-dyn.prod-infinitum.com.mx
+0 1 0 226 1 1585000104
+/
+unn-84-17-51-66.cdn77.com
+0 2 2 51739 1 1585149859
+/welcome/contacto
+159.89.113.145
+0 6 6 63822 1 1584970198
+/MyAdmin/scripts/setup.php
+ip-54-36-150-31.a.ahrefs.com
+0 1 1 38889 1 1585189969
+/welcome/index
+37-97-185-158.colo.transip.net
+0 2 2 88668 1 1585313976
+/xmlrpcs.php
+client-186-11-79-123.imovil.entelpcs.cl
+0 147 119 17697712 1 1585308522
+-
+crawl10.bl.semrush.com
+0 1 1 38539 1 1585022191
+/
+ip-185-184-8-5.rtbhouse.net
+0 2 2 91976 0 0
+-
+h51baf338.selucle.dyn.perspektivbredband.net
+0 101 101 1074337 1 1584957825
+/phpmyadmin/
+181-191-95-26.mundialnetbrejo.net.br
+0 1 1 38889 1 1585182061
+/
+109.102.111.44
+0 31 31 1423568 1 1585483126
+/
+116.113.99.171
+0 1 0 226 1 1585564730
+-
+pc-137-125-86-200.cm.vtr.net
+0 95 95 17198199 1 1585153164
+/
+40.94.227.57
+0 25 25 3225024 0 0
+-
+102.140.44.30
+0 1 1 42301 1 1585303150
+/
+z304.entelchile.net
+0 1 1 42272 1 1585365189
+/
+141.98.90.216
+0 1 0 0 1 1584912728
+/
+mail.agraprima.com
+0 18986 18971 891417134 3 1585619231
+/xmlrpc.php
+138.99.207.14.clientes.teleson.net.br
+0 1 1 42272 1 1585342795
+/
+grieg.mejorserver.com
+0 1 1 38880 1 1585091432
+/
+msnbot-40-77-167-24.search.msn.com
+0 3 3 133844 3 1585550636
+/
+msnbot-40-77-167-47.search.msn.com
+0 1 1 45988 1 1585479705
+/comments/feed/
+201-246-212-196.baf.movistar.cl
+0 4 0 0 1 1585163391
+-
+ec2-18-237-42-31.us-west-2.compute.amazonaws.com
+0 1 1 38539 1 1585045249
+/
+z250.entelchile.net
+0 2 0 0 1 1585433363
+-
+vps.miropucon.cl
+0 14 14 616528 1 1585377510
+/wp-admin/admin-ajax.php
+crawl-66-249-66-132.googlebot.com
+0 2 1 38085 2 1584964105
+/
+client-186-11-42-70.imovil.entelpcs.cl
+0 112 111 18748169 1 1585567403
+/
+5.101.0.209
+0 6 6 271452 3 1585586283
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+icorreo.intercomchile.cl
+0 9 9 421554 0 0
+-
+103.90.156.116
+0 1 0 226 1 1585172359
+/
+45.76.19.74.vultr.com
+0 1 1 38889 1 1585218749
+/
+msnbot-40-77-167-56.search.msn.com
+0 5 5 214671 5 1585411075
+/
+ec2-3-92-81-21.compute-1.amazonaws.com
+0 1 1 38961 1 1585138343
+/
+181.210.33.202
+0 1 1 38880 1 1585089690
+/
+ec2-3-127-234-125.eu-central-1.compute.amazonaws.com
+0 2 2 88664 1 1585345109
+/wp/xmlrpc.php
+dsl-201-145-189-246-dyn.prod-infinitum.com.mx
+0 1 0 226 1 1585077499
+/
+ip-54-36-149-36.a.ahrefs.com
+0 1 1 44361 0 0
+-
+z285.entelchile.net
+0 3 0 0 1 1585585605
+-
+dsl-187-134-128-214-dyn.prod-infinitum.com.mx
+0 1 0 226 1 1585438017
+/
+201.219.236.242
+0 9 0 0 2 1585046376
+-
+68.183.195.23
+0 1 1 44956 1 1585566267
+/
+175.111.131.83
+0 1 1 41932 1 1585308555
+/
+74.208.80.213
+0 1 1 40949 1 1585157518
+/xmlrpcs.php
+pc-72-37-214-201.cm.vtr.net
+0 7 0 0 1 1584962205
+-
+host236-170.multicomtv.cl
+0 3 0 0 1 1585304209
+-
+179-99-62-132.dsl.telesp.net.br
+0 1 1 78454 1 1584903526
+/
+fixed-187-189-35-253.totalplay.net
+0 1 1 42272 1 1585389311
+/
+201-246-241-188.baf.movistar.cl
+0 9 6 6246319 1 1584050946
+/welcome/index
+ip-54-36-150-177.a.ahrefs.com
+0 1 1 11088 1 1585145581
+/welcome/inicio_sesion_general
+106.75.85.103
+0 2 2 156946 1 1584942204
+/
+client-186-11-109-133.imovil.entelpcs.cl
+0 109 107 18398201 1 1585567926
+-
+sh-chi-us-gp1-wk114.internet-census.org
+0 1 1 38880 1 1585126255
+/
+ec2-52-34-24-33.us-west-2.compute.amazonaws.com
+0 1 1 0 1 1585224043
+/
+crawl-66-249-79-241.googlebot.com
+0 1 1 40940 0 0
+-
+138.255.12.25
+0 1 1 43928 1 1585506872
+/
+ip-54-36-148-114.a.ahrefs.com
+0 1 1 67 0 0
+-
+ip-54-36-150-69.a.ahrefs.com
+0 1 1 45988 1 1585520105
+/contacto/
+ip-54-36-148-65.a.ahrefs.com
+0 1 1 59493 0 0
+-
+185.67.188.6
+0 1 1 38889 1 1585200710
+/
+196.52.43.121.netsystemsresearch.com
+0 1 1 42272 1 1585353481
+/
+client-186-11-43-204.imovil.entelpcs.cl
+0 1 0 0 1 1585136469
+-
+static.vnpt.vn
+0 48131 48099 2255542894 20 1585619225
+/xmlrpc.php
+209.17.96.234.rdns.cloudsystemnetworks.com
+0 1 1 42301 1 1585285004
+/
+ip202.ip-51-77-249.eu
+0 5 5 200818 2 1585243382
+/wordpress/
+scan-07.shadowserver.org
+0 1 1 43928 1 1585436187
+/
+ip-54-36-149-6.a.ahrefs.com
+0 1 1 40521 0 0
+-
+124.132.102.155
+0 1 1 40991 0 0
+-
+45.232.32.6
+0 1 0 0 1 1584997609
+-
+pc-46-208-44-190.cm.vtr.net
+0 1 1 42274 1 1585311161
+/
+181.74.204.129
+0 1094 850 81987347 36 1585595151
+-
+191.116.107.128
+0 2 0 0 1 1585358029
+-
+ip-54-36-148-130.a.ahrefs.com
+0 1 1 40927 0 0
+-
+pc-45-160-239-201.cm.vtr.net
+0 2 0 0 1 1584967567
+-
+201-246-235-233.baf.movistar.cl
+0 4 0 0 1 1585005664
+-
+client-186-11-79-225.imovil.entelpcs.cl
+0 552 528 77375898 2 1585405743
+/welcome/contacto
+int0.client.access.fanaptelecom.net
+0 1 1 39225 1 1584983550
+/
+crawl-66-249-66-59.googlebot.com
+0 3 3 139104 1 1585246013
+/
+ecs-114-119-162-120.compute.hwclouds-dns.com
+0 11 11 450970 2 1585510759
+/nosotros
+ec2-34-215-181-8.us-west-2.compute.amazonaws.com
+0 1 1 42272 1 1585398875
+/
+polecat.cs.uni-bonn.de
+0 9 9 365815 9 1585551121
+/
+noc4.wordfence.com
+0 1 1 11 1 1584954020
+/
+181.74.207.193
+0 5 0 0 1 1585583202
+-
+client-186-11-61-50.imovil.entelpcs.cl
+0 102 102 17178255 1 1585398888
+/
+43.245.87.3
+0 1 1 38880 1 1585100554
+/
+zg-0312c-42.stretchoid.com
+0 1 1 43927 1 1585403962
+/
+net96-232.perm.ertelecom.ru
+0 1 1 38539 1 1585045776
+/
+165.16.37.150
+0 1 1 38880 1 1585131945
+/
+107-175-37-109-host.colocrossing.com
+0 1 1 44361 1 1585266371
+/contacto/
+msnbot-40-77-167-35.search.msn.com
+0 17 17 1143738 0 0
+-
+mx-ll-49.49.232-227.dynamic.3bb.co.th
+0 1 1 44332 1 1585361379
+/manager/html
+152.173.121.137
+0 1 0 0 1 1585532358
+-
+abts-north-static-027.112.160.122.airtelbroadband.in
+0 1 1 42301 1 1585276909
+/
+adsl-181-129-181-210.une.net.co
+0 1 1 38880 1 1585108997
+/
+msnbot-157-55-39-160.search.msn.com
+0 1 1 35701 0 0
+-
+ec2-34-221-54-43.us-west-2.compute.amazonaws.com
+0 1 1 42272 1 1585376034
+/
+mhweb-bbg-9.internet1.de
+0 1 1 59493 0 0
+-
+ip-54-36-150-57.a.ahrefs.com
+0 1 1 57048 1 1585592174
+/
+scan.clcert.cl
+0 2 1 43928 2 1585534251
+/
+181.226.16.247
+0 1 0 0 1 1584960119
+-
+201-246-225-42.baf.movistar.cl
+0 1356 1079 121374516 8 1585150913
+-
+165.227.184.22
+0 15 15 544901 1 1585120126
+/welcome/inicio_sesion_general
+186.67.158.117
+0 1 1 38880 1 1585132401
+/
+p50976221.dip0.t-ipconnect.de
+0 1 1 43928 1 1585479877
+/
+ec2-54-190-187-127.us-west-2.compute.amazonaws.com
+0 2 2 87856 1 1585475884
+/
+ec2-3-6-91-235.ap-south-1.compute.amazonaws.com
+0 1 1 43928 1 1585425229
+/
+209.17.97.90.rdns.cloudsystemnetworks.com
+0 1 1 38539 1 1585037752
+/
+czpypentesting88.xyz
+0 4 0 886 2 1585560452
+/
+115.214.67.231
+0 1 1 40521 0 0
+-
+d207-135-234-55.allwest.net
+0 1 1 43928 1 1585538129
+/
+client-186-11-99-174.imovil.entelpcs.cl
+0 2 0 0 1 1585302070
+-
+pool-173-63-56-47.nwrknj.fios.verizon.net
+0 1 0 226 1 1585314856
+/
+171.43.191.193
+0 1 1 40940 0 0
+-
+205.208.231.35.bc.googleusercontent.com
+0 4 4 179832 1 1585430334
+/
+client-186-11-58-208.imovil.entelpcs.cl
+0 2 0 0 1 1585157001
+-
+lu1.exit.tor.bowater.org
+0 18 18 736920 1 1585101144
+/noname.php
+193.130.91.117.broad.yz.js.dynamic.163data.com.cn
+0 1 0 0 1 1585581688
+-
+ip-54-38-90.eu
+0 5 5 229940 0 0
+-
+191-126-99-173.bam.movistar.cl
+0 32 32 3593982 1 1585566700
+/
+152.173.116.37
+0 2 0 0 1 1585602120
+-
+178.128.146.87
+0 1 0 58792 1 1584918982
+-
+195.88.193.33
+0 1 0 0 0 0
+-
+91.200.53.191
+0 1 1 43928 1 1585530300
+/
+193.57.40.38
+0 3 2 78446 2 1584981510
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+ip-45-40-143-13.ip.secureserver.net
+0 3 3 129185 2 1585349654
+/wp-sgin.php
+aurum029.a.ahrefs.com
+0 2 2 96313 2 1585603834
+/welcome/index
+crawl-66-249-73-87.googlebot.com
+0 3 3 122847 0 0
+-
+201-246-253-180.baf.movistar.cl
+0 1506 1418 204695668 6 1584644114
+/
+ip-54-36-150-174.a.ahrefs.com
+0 1 1 38539 1 1585001912
+/
+5.8.10.202
+0 6 4 198738 4 1585342141
+/
+94.191.98.170
+0 261 253 11161949 1 1585312865
+/manager/html
+vps.imbo.fr
+0 8 0 1772 4 1585479428
+/
+crawl4.bl.semrush.com
+0 1 0 1151 1 1585309928
+/welcome/nosotros
+191.116.248.224
+0 9 0 0 1 1585299168
+-
+209.17.97.114.rdns.cloudsystemnetworks.com
+0 1 1 38539 1 1585044921
+/
+ip-54-36-148-54.a.ahrefs.com
+0 1 1 40940 0 0
+-
+159.203.25.9
+0 1 1 38880 1 1585133317
+/
+13.48.79.222.broad.fz.fj.dynamic.163data.com.cn
+0 1 1 40940 1 1585089224
+/
+client-181-42-14-75.imovil.entelpcs.cl
+0 40 12 1098330 1 1584615664
+/welcome/nosotros
+17-58-101-49.applebot.apple.com
+0 5 5 184083 0 0
+-
+zg-0312b-260.stretchoid.com
+0 1 1 38539 1 1585037810
+/
+scan-03.shadowserver.org
+0 1 1 57433 1 1585605242
+/
+181.74.149.41
+0 7 0 0 3 1584980115
+-
+unused.static.rdsor.ro
+0 1 1 38889 1 1585185948
+/
+250.108.210.35.bc.googleusercontent.com
+0 2 2 88664 1 1585375803
+/nosotros
+113.101.193.39
+0 1 1 44332 0 0
+-
+scan-12.shadowserver.org
+0 1 1 38539 1 1584999387
+/
+crawl-66-249-65-203.googlebot.com
+0 9 8 324614 1 1585176173
+/
+ip-54-36-150-41.a.ahrefs.com
+0 1 0 58741 0 0
+-
+202.107.226.3
+0 1 0 0 1 1584920682
+-
+crawl-66-249-79-89.googlebot.com
+0 1 1 38880 1 1585107816
+/
+msnbot-157-55-39-85.search.msn.com
+0 10 10 426435 4 1585403831
+/
+117.91.252.233
+0 1 0 0 1 1585352479
+-
+85.187.18.17.ipacct.net
+0 1 0 226 1 1585106930
+/
+189.76.93.215
+0 1 1 43928 1 1585456573
+/
+ip-54-36-148-53.a.ahrefs.com
+0 2 2 100014 0 0
+-
+host-091-097-192-160.ewe-ip-backbone.de
+0 1 1 45988 1 1585462542
+/phpmyadmin/
+pei-186-0-liii-cli.une.net.co
+0 1 1 38880 1 1585125407
+/
+201-246-210-157.baf.movistar.cl
+0 1104 1087 181112434 10 1584389725
+/
+crawl6.bl.semrush.com
+0 1 1 10637 0 0
+-
+181-203-25-38.bam.movistar.cl
+0 1 1 49295 0 0
+-
+ec2-3-133-132-159.us-east-2.compute.amazonaws.com
+0 22 22 745273 1 1585406478
+/welcome/contacto
+36.57.118.49
+0 1 0 0 1 1585429987
+-
+static-170-244-76-102.rjtecnologia-pe.net.br
+0 1 1 42301 1 1585298200
+/
+ip243.ip-158-69-38.net
+0 12 12 184812 1 1584974192
+/
+207.19.80.117.broad.sz.js.dynamic.163data.com.cn
+0 1 1 40949 1 1585201251
+/otsmobile/app/mgs/mgw.htm
+92.118.160.53.netsystemsresearch.com
+0 1 1 38539 1 1585020861
+/
+91-121-76-25.serverhub.ru
+0 2 2 44780 2 1585586298
+/
+5.188.62.25
+0 1 1 43928 1 1585411470
+/
+191.119.83.8
+0 1 0 0 1 1584958341
+-
+msnbot-40-77-167-73.search.msn.com
+0 4 4 157580 4 1585136871
+/nosotros/
+ip125.ip-51-89-200.eu
+0 1 1 45486 0 0
+-
+40.94.227.72
+0 18 18 2786391 0 0
+-
+winnti-scanner-victims-will-be-notified.threatsinkhole.com
+0 1 0 0 1 1585271557
+-
+200-103-26-186.pvoce702.dsl.brasiltelecom.net.br
+0 1 1 38890 1 1585228895
+/
+46-248-186-150.rev.iq.pl
+0 1 1 40949 1 1585165260
+/feed
+220-132-78-251.hinet-ip.hinet.net
+0 114 113 4576891 1 1585049210
+/
+209.17.96.226.rdns.cloudsystemnetworks.com
+0 1 1 42301 1 1585303625
+/
+216-197-131-49.sktn.static.sasknet.sk.ca
+0 1 1 38889 1 1585191669
+/
+179.61.98.3
+0 1 0 0 1 1585078080
+-
+static.81.161.46.78.clients.your-server.de
+0 9 8 336278 1 1584915933
+/preguntas-frecuentes/
+pc-124-206-161-190.cm.vtr.net
+0 1 0 0 1 1585522761
+-
+201.219.236.250
+0 98 91 16974912 1 1584991036
+-
+ns3099490.ip-94-23-12.eu
+0 1 0 0 1 1584926736
+/
+crawl18.bl.semrush.com
+0 2 2 81889 0 0
+-
+crawl-66-249-66-57.googlebot.com
+0 10 10 454319 4 1585604355
+/
+85.228.237.35.bc.googleusercontent.com
+0 4 4 86861 1 1585253490
+/welcome/preguntas_frecuentes
+ip-54-36-149-43.a.ahrefs.com
+0 1 1 45988 1 1585422429
+/Cliente/Login/
+185.132.53.220
+0 2 0 443 1 1585577616
+/
+52.162.161.148
+0 24 24 925331 9 1585388664
+/
+36.43.253.191
+0 1 1 40949 0 0
+-
+114.113.112.92
+0 1 1 40940 1 1585087885
+/manager/html
+110.249.212.46
+0 3 0 678 3 1585508905
+-
+google-proxy-66-249-85-46.google.com
+0 47 47 9061106 1 1584126243
+/welcome/index
+ip-54-36-148-115.a.ahrefs.com
+0 1 1 45988 1 1585499189
+/contacto/
+msnbot-157-55-39-197.search.msn.com
+0 4 2 47717 3 1584969897
+/
+114.238.54.240
+0 1 1 67 0 0
+-
+rdns0.hansrv.com
+0 1 1 38961 1 1585140514
+/
+scan-68.security.ipip.net
+0 1 1 39090 1 1585246263
+/
+host-173-212-125-18.public.eastlink.ca
+0 1 1 38961 1 1585140326
+/
+107-174-244-107-host.colocrossing.com
+0 1 1 44361 1 1585259684
+/shell
+pc-65-174-160-190.cm.vtr.net
+0 1 1 43928 1 1585535647
+/
+106.75.85.117
+0 1 0 0 1 1584942101
+/
+186.251.5.138
+0 1 1 38880 1 1585099407
+/
+47.95.193.232
+0 1 1 40521 0 0
+-
+191-126-99-51.bam.movistar.cl
+0 34 29 1128013 1 1584125959
+/
+crawl-66-249-66-55.googlebot.com
+0 3 3 135724 2 1585566601
+/
+unallocated.netlife.lg.ua
+0 1 1 38085 1 1584964093
+/
+51.211.170.98
+0 1 0 226 1 1585580180
+-
+179.56.165.201
+0 3 0 0 2 1585322751
+-
+crawl-66-249-69-53.googlebot.com
+0 5 3 132996 0 0
+-
+msnbot-157-55-39-221.search.msn.com
+0 3 3 159246 0 0
+-
+120.79.136.8
+0 1 1 44263 0 0
+-
+208.91.109.90
+0 4 4 0 0 0
+-
+msnbot-157-55-39-40.search.msn.com
+0 2 2 21274 1 1584975926
+/contacto/
+client-181-42-35-240.imovil.entelpcs.cl
+0 2 0 0 2 1585049879
+-
+103.219.29.234
+0 16 16 731688 1 1585405627
+/
+185.220.101.197
+0 1 1 0 1 1585346673
+/1Jlv
+client-181-42-16-206.imovil.entelpcs.cl
+0 2 0 0 1 1585563251
+-
+ip-54-36-150-123.a.ahrefs.com
+0 1 1 57433 1 1585619021
+/
+ip-54-36-149-55.a.ahrefs.com
+0 1 1 40940 0 0
+-
+ecs-114-119-164-5.compute.hwclouds-dns.com
+0 10 10 435609 1 1585509366
+/
+ip-104-238-97-201.ip.secureserver.net
+0 1 1 40521 1 1585015144
+/wp-content/themes/wp-update.php
+scan018.intrinsec.com
+0 2 2 82467 2 1585534889
+/
+91.106.75.241
+0 1 1 38539 1 1584996891
+/
+68.183.105.217
+0 9 9 364689 0 0
+-
+190.128.154.222
+0 2 2 38539 1 1584987905
+/
+209.97.149.134
+0 11 11 485911 1 1585287932
+/
+crawl15.bl.semrush.com
+0 2 2 89797 0 0
+-
+45.232.32.218
+0 5 0 0 4 1585573910
+-
+ns3270281.ip-37-59-56.eu
+0 2 2 81880 1 1585090883
+/wp-login.php
+181.226.25.24
+0 5 0 0 3 1585070728
+-
+191.116.47.189
+0 1 0 0 1 1585148220
+-
+180.246.119.33
+0 1 1 48264 1 1585590759
+/
+client-186-11-56-190.imovil.entelpcs.cl
+0 110 91 16897330 2 1584991772
+-
+static-70-166-128-190.telecel.com.py
+0 1 1 40927 0 0
+-
+109.86.73.34.bc.googleusercontent.com
+0 13 13 526773 1 1584993903
+/Cliente/Login/
+ecs-114-119-165-203.compute.hwclouds-dns.com
+0 12 12 517480 1 1585406703
+/welcome/preguntas_frecuentes
+crawl19.bl.semrush.com
+0 1 1 40949 1 1585212066
+/preguntas-frecuentes/
+ip-54-36-148-159.a.ahrefs.com
+0 1 1 43928 1 1585496779
+/
+185.202.2.57
+0 3 0 678 3 1585245907
+/
+ip-54-36-148-62.a.ahrefs.com
+0 1 1 45988 0 0
+-
+119.148.29.11
+0 1 0 226 1 1585393763
+-
+crawl-66-249-65-205.googlebot.com
+0 6 6 245043 0 0
+-
+crawl31.bl.semrush.com
+0 2 2 76324 1 1585143531
+/contacto/
+ec2-52-71-130-33.compute-1.amazonaws.com
+0 2 2 77778 1 1585179930
+/
+n144-h73.150.118.dynamic.da.net.tw
+0 1 0 226 1 1585116315
+/
+92.247.114.98
+0 1 0 226 1 1585117846
+/
+85.185.165.18
+0 1 1 44780 1 1585583540
+/
+sd-83783.fidesio.com
+0 1 1 44361 1 1585281770
+/wp-login.php
+191-126-99-46.bam.movistar.cl
+0 50 42 7021534 1 1584839282
+/
+mx.trumig.com
+0 1 1 38889 1 1585219065
+/
+232.177.206.35.bc.googleusercontent.com
+0 2 2 88664 1 1585347634
+/nosotros
+hostby.web4net.org
+0 1 1 42272 1 1585372418
+/
+ip-54-36-150-158.a.ahrefs.com
+0 1 1 18142 1 1585581211
+/welcome/preguntas_frecuentes
+crawl-66-249-79-248.googlebot.com
+0 16 15 2447060 0 0
+-
+security.criminalip.com
+0 1 1 39195 1 1584965754
+/
+ecs-114-119-162-32.compute.hwclouds-dns.com
+0 11 10 467552 3 1585495632
+/author/franco
+37.106.135.86
+0 1 0 226 1 1585298245
+/
+ip-54-36-149-102.a.ahrefs.com
+0 1 1 40940 0 0
+-
+183.92.236.159
+0 1 0 0 1 1585083197
+-
+msnbot-207-46-13-247.search.msn.com
+0 10 10 426649 7 1585315102
+/
+host238-050.multicomtv.cl
+0 14 0 0 1 1584958806
+-
+msnbot-40-77-167-176.search.msn.com
+0 3 3 131784 3 1585465820
+/
+183.150.60.20
+0 1 1 44361 0 0
+-
+82.15.196.104.bc.googleusercontent.com
+0 5 5 129162 1 1585255484
+/welcome/index
+181.74.205.127
+0 4 0 0 2 1584957148
+-
+a9.sub180.net78.udm.net
+0 3 3 122533 0 0
+-
+105-213-16-166.access.mtnbusiness.co.za
+0 1 1 42272 1 1585346467
+/
+183.ip-51-255-45.eu
+0 1 1 46996 0 0
+-
+45.97.184.220.broad.hz.zj.dynamic.163data.com.cn
+0 2 1 39106 1 1585089217
+/
+pc-119-236-86-200.cm.vtr.net
+0 386 377 82425663 5 1585147725
+/
+186.1.146.133
+0 1 1 49295 0 0
+-
+201-246-244-217.baf.movistar.cl
+0 27 17 527505 1 1585160448
+/
+crawl-66-249-66-158.googlebot.com
+0 85 80 9503355 5 1585541867
+/
+static.28.41.9.176.clients.your-server.de
+0 9 8 336275 1 1584913460
+/preguntas-frecuentes/
+host-92-124-146-78.pppoe.omsknet.ru
+0 1 1 38889 1 1585214367
+/
+152.173.127.156
+0 1 0 0 1 1585588414
+-
+crawl-66-249-73-91.googlebot.com
+0 1 1 38889 1 1585153185
+/
+ec2-54-162-102-36.compute-1.amazonaws.com
+0 6 5 170493 0 0
+-
+no-reverse-dns-configured.com
+0 57 54 2222778 3 1585246073
+/phpmoadmin/scripts/setup.php
+5-255-250-107.spider.yandex.com
+0 2 2 98588 1 1585590659
+/
+host190.110.161.252.dynamic.pacificonet.cl
+0 1 1 38618 1 1585067899
+/
+ns503711.ip-198-27-81.net
+0 4 4 163796 1 1585212999
+/wp-login.php
+ecs-114-119-162-150.compute.hwclouds-dns.com
+0 1 1 44332 0 0
+-
+pc-201-202-163-190.cm.vtr.net
+0 553 522 87244319 10 1585594643
+/
+crawl-66-249-79-244.googlebot.com
+0 26 26 4734990 4 1585142254
+/welcome/index
+ec2-54-185-56-91.us-west-2.compute.amazonaws.com
+0 1 1 38085 1 1584962235
+/
+ip-54-36-149-20.a.ahrefs.com
+0 1 1 40521 0 0
+-
+outbound1.letsencrypt.org
+0 3 3 30552 0 0
+-
+5751efb3.skybroadband.com
+0 1 0 226 1 1585124845
+/
+ec2-18-184-179-166.eu-central-1.compute.amazonaws.com
+0 2 2 88664 1 1585345446
+/blog/xmlrpc.php
+191.119.22.54
+0 1 0 0 1 1584958912
+-
+client-186-11-45-174.imovil.entelpcs.cl
+0 43 30 4889792 1 1584644802
+/welcome/index
+client-181-42-36-113.imovil.entelpcs.cl
+0 25 9 1614332 2 1584902720
+/
+191.116.149.167
+0 23 20 11121488 1 1584475072
+/
+ip-54-36-149-76.a.ahrefs.com
+0 2 2 44399 0 0
+-
+40.94.227.99
+0 20 20 2367335 0 0
+-
+ec2-18-218-172-170.us-east-2.compute.amazonaws.com
+0 1 1 38539 1 1585052739
+/
+dedicated.vsys.host
+0 6 4 178220 3 1585567239
+/
+msnbot-40-77-167-21.search.msn.com
+0 16 16 1603349 9 1585598650
+/
+viv.vivenproducciones.com
+0 1 1 45988 0 0
+-
+186.67.200.186
+0 7 7 337700 0 0
+-
+msnbot-40-77-167-89.search.msn.com
+0 3 3 85803 1 1585285921
+/hola-mundo/
+crawl13.bl.semrush.com
+0 1 1 45988 0 0
+-
+ecs-114-119-161-219.compute.hwclouds-dns.com
+0 12 12 508334 3 1585592828
+/contacto
+ec2-18-224-135-40.us-east-2.compute.amazonaws.com
+0 7 7 221796 2 1585584159
+/welcome/index
+46-185-119-151.broadband.kyivstar.net
+0 3 3 141816 1 1585566966
+/App/
+zg-0312c-43.stretchoid.com
+0 1 1 43992 1 1585308510
+/hudson
+client-186-11-95-127.imovil.entelpcs.cl
+0 3 0 0 1 1584966974
+-
+182.101.248.189
+0 1 0 0 1 1585165799
+-
+ec2-54-244-76-238.us-west-2.compute.amazonaws.com
+0 1 1 38890 1 1585224042
+/
+182.54.220.205
+0 1 0 226 1 1585403087
+/
+scan035.intrinsec.com
+0 1 1 44956 1 1585565559
+/
+scan-08.shadowserver.org
+0 1 1 38889 1 1585177832
+/
+client-181-42-20-1.imovil.entelpcs.cl
+0 1 0 0 1 1585489598
+-
+253.92.227.35.bc.googleusercontent.com
+0 5 5 129104 1 1585370288
+/welcome/index
+client-186-11-61-114.imovil.entelpcs.cl
+0 1 1 18142 1 1585401278
+/welcome/preguntas_frecuentes
+static.reserve.wtt.net.hk
+0 4 0 886 2 1585402109
+/
+37.179.3.74
+0 33 33 5307833 1 1585078222
+/
+106.75.118.223
+0 1 0 0 1 1584942144
+-
+97.ip-164-132-44.eu
+0 1 1 40949 1 1585179456
+/xmlrpcs.php
+072-189-083-208.res.spectrum.com
+0 1 1 38880 1 1585099637
+/
+msnbot-40-77-167-104.search.msn.com
+0 2 2 77078 2 1585034225
+/
+189-89-153-178.static.itsweb.com.br
+0 1 1 38880 1 1585116674
+/
+165.227.189.234
+0 2 2 80174 2 1585182155
+/xmlrpcs.php
+218.146.11.175
+0 1 1 45988 0 0
+-
+ip-54-36-150-26.a.ahrefs.com
+0 1 1 43928 1 1585507447
+/
+41-139-171-231.safaricombusiness.co.ke
+0 3 3 69650 1 1585174506
+/welcome/preguntas_frecuentes
+54.38.245.145
+0 5 5 229940 0 0
+-
+71.6.232.4
+0 1 1 38880 1 1585100319
+/
+215.88.177.60.broad.hz.zj.dynamic.163data.com.cn
+0 1 1 40949 0 0
+-
+host190.5.32.144.dynamic.pacificonet.cl
+0 3 0 0 1 1585050908
+-
+ip-54-36-149-54.a.ahrefs.com
+0 1 1 45988 0 0
+-
+45.6.79.101
+0 1 1 44780 1 1585586615
+/
+msnbot-157-55-39-35.search.msn.com
+0 6 6 247128 6 1585319914
+/
+msnbot-40-77-167-51.search.msn.com
+0 6 6 107201 1 1585497639
+/
+ip-54-36-148-197.a.ahrefs.com
+0 2 2 84868 2 1585472440
+/
+174.186.248.116.broad.km.yn.dynamic.163data.com.cn
+0 1 1 45988 0 0
+-
+ecs-114-119-164-164.compute.hwclouds-dns.com
+0 1 1 43927 1 1585402796
+/
+zg-0312c-178.stretchoid.com
+0 1 0 0 1 1584928803
+/
+115.226.242.254
+0 1 1 40940 0 0
+-
+17-58-96-107.applebot.apple.com
+0 6 6 220484 6 1585469797
+/
+zrh-exit.privateinternetaccess.com
+0 10 10 459880 1 1585522763
+/wp-config.phpoldd
+static-103-143-46-58.hostingraja.in
+0 4 4 161700 1 1585118954
+/
+97.104.150.155
+0 1 1 43928 1 1585526191
+/
+168.196.201.96
+0 9 0 0 1 1585392453
+-
+msnbot-157-55-39-153.search.msn.com
+0 1 1 40949 0 0
+-
+crawl-66-249-79-243.googlebot.com
+0 1 1 38880 1 1585074578
+/
+51.pool92-177-211.dynamic.orange.es
+0 1 0 226 1 1585203690
+/
+190.106.130.42
+0 4 2 156946 1 1584903965
+/
+106.57.7.46
+0 1 0 0 1 1585404134
+-
+msnbot-40-77-167-68.search.msn.com
+0 2 2 87856 2 1585460550
+/
+ecs-114-119-167-122.compute.hwclouds-dns.com
+0 12 12 534814 1 1584981695
+/Cliente/Login
+planetlab15.net.in.tum.de
+0 4 3 0 4 1585570220
+/
+no-data
+0 2 0 81880 1 1585089221
+/
+ip-54-36-150-121.a.ahrefs.com
+0 1 1 44361 1 1585261686
+/comments/feed/
+crawl-66-249-79-245.googlebot.com
+0 4 4 161700 1 1585117452
+/
+ip-54-36-149-95.a.ahrefs.com
+0 1 1 45988 0 0
+-
+d251.sub4.net78.udm.net
+0 2 2 92828 0 0
+-
+40.94.227.81
+0 1 1 38889 1 1585151810
+/
+ec2-3-15-217-211.us-east-2.compute.amazonaws.com
+0 1 1 42274 1 1585313737
+/
+178-164-207-122.pool.digikabel.hu
+0 1 0 226 1 1585080287
+/
+host89-199-static.3-79-b.business.telecomitalia.it
+0 1 0 226 1 1584912915
+-
+80.82.68.69
+0 6 6 178620 1 1585378475
+/
+client-181-42-24-21.imovil.entelpcs.cl
+0 8 5 890539 1 1584651471
+/welcome/index
+185.209.0.59
+0 1 0 226 1 1585537876
+/
+tor.relay.com
+0 1 1 40521 0 0
+-
+ec2-3-81-60-82.compute-1.amazonaws.com
+0 2 2 89916 1 1585443018
+/
+217-200-5-45.rpnnetprovedor.com.br
+0 1 1 43928 1 1585431141
+/
+ip-54-36-149-28.a.ahrefs.com
+0 1 1 44332 0 0
+-
+ec2-34-209-232-166.us-west-2.compute.amazonaws.com
+0 1 1 10184 0 0
+-
+117.50.60.193
+0 1 0 73074 1 1584942096
+/
+185.234.216.198
+0 14 0 411187 0 0
+-
+88.247.5.130.static.ttnet.com.tr
+0 3 1 54946 1 1585594361
+/
+250.160.227.114.broad.cz.js.dynamic.163data.com.cn
+0 1 1 10637 0 0
+-
+209.17.96.162.rdns.cloudsystemnetworks.com
+0 2 2 81190 2 1585299700
+/
+76.122.55.116.broad.km.yn.dynamic.163data.com.cn
+0 1 1 45988 0 0
+-
+185.220.102.8
+0 1 1 0 1 1585132912
+/Byr0
+ec2-18-208-196-242.compute-1.amazonaws.com
+0 1 1 38890 1 1585224781
+/
+pc-239-160-163-190.cm.vtr.net
+0 1 1 38889 1 1585213543
+/
+r-34-49-62-5.consumer-pool.prcdn.net
+0 98 98 16992273 1 1585245998
+/
+crawl26.bl.semrush.com
+0 1 1 45988 0 0
+-
+unn-89-187-168-139.cdn77.com
+0 2 2 52366 1 1585241132
+/welcome/contacto
+201.187.111.194
+0 100 100 14348089 1 1584030027
+/
+ecs-114-119-161-213.compute.hwclouds-dns.com
+0 16 16 633754 3 1585305146
+/preguntas-frecuentes
+202.138.249.211
+0 1 1 38880 1 1585088820
+/
+pc-156-115-120-200.cm.vtr.net
+0 183 171 38771498 4 1584778893
+/welcome/index
+111.231.146.224
+0 4 4 175268 1 1585359193
+/
+23-92-36-3.lionlink.net
+0 2 2 87856 1 1585463347
+/
+pc-37-226-86-200.cm.vtr.net
+0 1619 1470 184192420 19 1585567580
+/
+ec2-3-221-83-41.compute-1.amazonaws.com
+0 1 1 43928 1 1585503299
+/
+goflyuk.com
+0 1 1 45055 1 1585569054
+/
+dojo.census.shodan.io
+0 10 5 229010 1 1585508081
+/
+ec2-34-247-254-228.eu-west-1.compute.amazonaws.com
+0 4 2 156946 1 1584905701
+/
+pc-123-83-239-201.cm.vtr.net
+0 107 107 17961711 1 1585139313
+/welcome/index
+134.76.73.34.bc.googleusercontent.com
+0 5 5 125853 1 1585250776
+/welcome/index
+177.152.23.6
+0 1 1 78454 1 1584902957
+/
+104.238.220.208
+0 2 1 42498 1 1585366877
+/
+scan-11.shadowserver.org
+0 1 0 0 1 1584925854
+/
+ip-54-36-149-19.a.ahrefs.com
+0 1 1 45988 0 0
+-
+40.94.227.23
+0 16 16 2226545 0 0
+-
+45.168.71.214
+0 63 63 12274178 2 1585238904
+/
+185.132.53.59
+0 10 0 2215 5 1585568537
+/
+ec2-54-151-8-253.us-west-1.compute.amazonaws.com
+0 1 1 45988 0 0
+-
+crawl-66-249-69-57.googlebot.com
+0 3 2 88664 0 0
+-
+215.55.74.34.bc.googleusercontent.com
+0 4 4 179832 1 1585431426
+/
+msnbot-207-46-13-243.search.msn.com
+0 3 3 160057 0 0
+-
+102.164.222.92
+0 1 1 43928 1 1585562892
+/
+209.241.57.59.broad.xm.fj.dynamic.163data.com.cn
+0 1 1 46840 0 0
+-
+ns379480.ip-91-121-29.eu
+0 1 0 0 1 1584912516
+/
+cpe-23-241-213-23.socal.res.rr.com
+0 1 1 42274 1 1585311384
+/
+23.98.217.88
+0 4 4 181892 1 1585516460
+/
+ip-54-36-148-254.a.ahrefs.com
+0 1 1 38889 1 1585196591
+/
+202.102.90.226
+0 2 2 89916 1 1585492488
+/
+nd01.ipglobe.net
+0 1 1 41373 1 1585237494
+/user/register/
+crawl32.bl.semrush.com
+0 1 1 44332 1 1585397493
+/hola-mundo/
+ec2-52-12-196-44.us-west-2.compute.amazonaws.com
+0 1 0 0 1 1584950342
+/
+google-proxy-66-249-85-44.google.com
+0 53 51 7647306 1 1584126225
+/welcome/nosotros
+201-27-222-220.dsl.telesp.net.br
+0 1 1 43371 1 1585402402
+/
+ip-54-36-150-179.a.ahrefs.com
+0 1 1 38539 1 1585019615
+/
+196.52.43.131.netsystemsresearch.com
+0 1 0 226 1 1585242016
+/
+201-49-232-68.spdlink.com.br
+0 1 1 43928 1 1585490769
+/
+zg-0312c-376.stretchoid.com
+0 1 1 38889 1 1585211072
+/
+client-186-11-79-108.imovil.entelpcs.cl
+0 2 0 0 1 1584959076
+-
+lfbn-idf1-1-649-27.w86-245.abo.wanadoo.fr
+0 15 14 516127 1 1585229713
+/
+pirate.census.shodan.io
+0 5 5 227880 1 1585434029
+/
+121.70.74.34.bc.googleusercontent.com
+0 5 5 121687 1 1585178666
+/welcome/index
+80.48.175.216
+0 1 1 42301 1 1585295279
+/
+51.144.84.163
+0 1 1 43928 1 1585503204
+/
+71.6.232.7
+0 1 1 38539 1 1585058096
+/
+68.183.197.146
+0 1 1 38539 1 1585048203
+/
+134.122.55.157
+0 1 1 43928 1 1585553026
+/
+170.238.33.122
+0 4 0 0 1 1585274965
+-
+216.244.66.245
+0 10 10 488238 5 1585602812
+/preguntas-frecuentes/
+46.101.171.183
+0 1 1 57429 1 1585594097
+/
+client-186-11-23-63.imovil.entelpcs.cl
+0 101 100 17082754 4 1585347378
+/
+222.186.19.221
+0 5 2 136696 2 1585097583
+/
+177.223.100.22.txfiber.net.br
+0 1 1 42301 1 1585255549
+/
+52.187.150.185
+0 4 2 156946 1 1584939008
+/
+168.196.203.51
+0 1 0 0 1 1584968924
+-
+client-181-42-36-89.imovil.entelpcs.cl
+0 3 0 0 1 1585316762
+-
+191.119.212.94
+0 31 26 6482092 1 1584431983
+/
+z432.entelchile.net
+0 3 0 0 1 1585388487
+-
+pc-141-84-239-201.cm.vtr.net
+0 17 0 0 2 1585215625
+-
+201-246-230-118.baf.movistar.cl
+0 1644 1449 145594075 6 1585482098
+/welcome/preguntas_frecuentes
+141-8-144-13.spider.yandex.com
+0 2 2 98588 1 1585590659
+/
+msnbot-40-77-167-95.search.msn.com
+0 4 3 178055 4 1584962231
+/
+ec2-54-207-33-42.sa-east-1.compute.amazonaws.com
+0 1 1 38889 1 1585220296
+/
+hosting-by.directwebhost.org
+0 7 7 197693 1 1585137875
+/welcome/inicio_sesion_general
+axntech-dynamic-196.176.115.45.axntechnologies.in
+0 1 1 39090 1 1585249300
+/
+msnbot-157-55-39-154.search.msn.com
+0 2 2 205451 1 1584979922
+/
+pc-135-106-104-200.cm.vtr.net
+0 6 0 0 1 1585224348
+-
+209.17.96.202.rdns.cloudsystemnetworks.com
+0 1 1 38889 1 1585171565
+/
+48.237.237.35.bc.googleusercontent.com
+0 4 4 159680 1 1585231124
+/
+178-73-215-171-static.glesys.net
+0 1 1 43928 1 1585498586
+/
+45.67.14.0
+0 1 1 59493 0 0
+-
+crawl24.bl.semrush.com
+0 2 2 86509 1 1585480300
+/contacto/
+175.142.40.150
+0 1 0 226 1 1585001773
+/
+ip-54-36-148-12.a.ahrefs.com
+0 1 1 40521 0 0
+-
+191-125-149-189.bam.movistar.cl
+0 2 2 91976 0 0
+-
+191.119.119.64
+0 4 0 0 1 1585241058
+-
+ip198.ip-51-77-249.eu
+0 5 5 109217 2 1584974889
+/wordpress/
+40.94.227.77
+0 1 1 43928 1 1585556909
+/
+54.174.55.115
+0 1 1 0 1 1585613518
+/
+ns3123330.ip-51-68-152.eu
+0 1 1 41932 1 1585306762
+/
+globalip103236.utalca.cl
+0 85 85 13063229 1 1584088946
+/welcome/inicio_sesion_general
+103.79.156.62
+0 1 1 42301 1 1585285380
+/
+193.106.30.99
+0 35 35 1468202 27 1585611450
+/
+60.191.52.254
+0 1 1 0 1 1585422075
+/
+179.56.217.221
+0 1 0 0 1 1585046658
+-
+88.250.200.163.static.ttnet.com.tr
+0 1 1 38889 1 1585151542
+/
+google-proxy-66-249-85-48.google.com
+0 44 43 10113457 1 1584126221
+/welcome/planes
+201.219.233.196
+0 22 22 2492989 1 1585561628
+/
+59.52.37.135
+0 1 1 41150 0 0
+-
+5.188.84.6
+0 2 2 79838 2 1585199600
+/Cliente/Login/
+5.188.210.101
+0 1 1 40940 1 1585102404
+/echo.php
+ec2-3-14-255-131.us-east-2.compute.amazonaws.com
+0 1 1 10184 0 0
+-
+0541fd16.skybroadband.com
+0 1 0 226 1 1585283490
+/
+crawl-66-249-65-207.googlebot.com
+0 7 4 161737 1 1585159210
+/
+117.91.249.30
+0 1 1 67 0 0
+-
+client-181-42-33-64.imovil.entelpcs.cl
+0 30 20 6136220 2 1584492535
+/
+jobqueue-listener.jobqueue.netcraft.com-u9f36d5a0730411ea8bc27308838d6ab1u-digitalocean
+0 1 1 0 0 0
+-
+czpythegod.tk
+0 10 0 2215 5 1585493732
+/
+pc-35-100-239-201.cm.vtr.net
+0 2 0 0 1 1585049196
+-
+client-181-42-30-32.imovil.entelpcs.cl
+0 16 16 880663 1 1585567985
+/
+msnbot-40-77-167-98.search.msn.com
+0 2 2 86604 1 1585317937
+/welcome/index
+77-88-5-124.spider.yandex.com
+0 17 17 765711 1 1585552860
+/
+110.184.147.251
+0 1 1 40521 0 0
+-
+40.94.227.73
+0 12 12 1845364 0 0
+-
+39.100.224.53
+0 1 1 45988 1 1585487726
+/TP/public/
+190.105.229.21
+0 1 1 57433 1 1585604703
+/
+msnbot-157-55-39-21.search.msn.com
+0 18 18 789332 0 0
+-
+5-255-250-36.spider.yandex.com
+0 2 2 79838 1 1585182959
+/
+196.52.43.57.netsystemsresearch.com
+0 1 1 38880 1 1585079252
+/
+pc-232-208-160-190.cm.vtr.net
+0 94 94 17161370 1 1585154916
+/preguntas-frecuentes/
+170.13.231.35.bc.googleusercontent.com
+0 4 4 141906 1 1585144303
+/
+119.39.46.106
+0 1 1 0 1 1585089214
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+client-186-11-40-212.imovil.entelpcs.cl
+0 6 0 0 1 1585613568
+-
+survey.internet-census.org
+0 1 1 57433 1 1585614851
+/
+msnbot-207-46-13-162.search.msn.com
+0 1 1 90466 0 0
+-
+research.esrg.stanford.edu
+0 1 1 57433 1 1585617379
+/
+czpyvulntesting.pl
+0 2 0 443 1 1585613372
+/
+sh-phx-us-gp1-wk112.internet-census.org
+0 1 1 57433 1 1585613318
+/
+95.85.8.239
+0 1 1 59493 1 1585616792
+/wp-login.php
+mail.agraprima.com
+0 424 424 25225032 1 1585619231
+/xmlrpc.php
+ip-54-36-148-65.a.ahrefs.com
+0 1 1 59493 0 0
+-
+static.vnpt.vn
+0 1049 1049 62408157 1 1585619225
+/xmlrpc.php
+msnbot-157-55-39-160.search.msn.com
+0 1 1 35701 0 0
+-
+mhweb-bbg-9.internet1.de
+0 1 1 59493 0 0
+-
+ip-54-36-148-53.a.ahrefs.com
+0 1 1 59493 0 0
+-
+ip-54-36-150-123.a.ahrefs.com
+0 1 1 57433 1 1585619021
+/
+ecs-114-119-162-32.compute.hwclouds-dns.com
+0 1 1 59493 0 0
+-
+ecs-114-119-167-122.compute.hwclouds-dns.com
+0 1 1 59493 0 0
+-
+54.174.55.115
+0 1 1 0 1 1585613518
+/
+jobqueue-listener.jobqueue.netcraft.com-u9f36d5a0730411ea8bc27308838d6ab1u-digitalocean
+0 1 1 0 0 0
+-
+msnbot-157-55-39-21.search.msn.com
+0 1 1 59493 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.necro.sofgem.cl/welcome/editar_perfil_cliente
+0 6
+https://www.sofgem.cl/nosotros/
+0 6
+https://www.sofgem.cl/Cliente/Login/
+0 1
+http://www.sofgem.cl/contacto/
+0 1
+https://www.sofgem.cl/index.php/welcome/indexs
+0 14
+https://www.sofgem.cl
+1 4
+https://www.sofgem.cl/welcome/formulario
+0 53
+http://www.necro.sofgem.cl/framework/css/materialize.min.css
+0 4033
+http://sofgem.cl/welcome/formulario
+0 2
+http://localhost/sofgem/index.php
+0 118
+https://www.sofgem.cl/welcome/editar_perfil_administrador
+0 8
+http://www.necro.sofgem.cl/
+0 238
+http://www.necro.sofgem.cl/index.php/welcome/formulario
+0 3
+https://200.111.155.164:443/
+0 3
+https://www.sofgem.cl/welcome/nosotros
+0 31
+http://sofgem.cl/
+0 2861
+https://www.sofgem.cl/welcome/editar_perfil_clientes
+0 7
+http://www.sii.cl/servicios_online/1039-emp_prov_fe-1184.html
+0 1
+https://www.google.cl/
+0 2
+https://www.sofgem.cl/index.php/welcome/formulario
+0 2
+http://200.111.155.164:80/
+0 2
+https://www.sofgem.cl/pagina-de-ejemplo/
+0 1
+https://webcache.googleusercontent.com/search
+0 64
+http://www.necro.sofgem.cl/welcome/contacto
+0 101
+https://www.sofgem.cl/preguntas-frecuentes/
+0 95
+https://www.sofgem.cl/wp-admin/
+0 3
+https://www.sofgem.cl/index.php/welcome/index
+0 132
+https://www.sofgem.cl/welcome/
+0 1
+http://necro.sofgem.cl/welcome/controlador_email
+0 1
+http://www.necro.sofgem.cl//framework/imagenes/sofgem.png
+0 2
+http://www.necro.sofgem.cl/welcome/inicio_sesion_general
+0 24
+https://goldsoch.info/
+0 3
+https://pokerdoms-play.ru/
+0 3
+android-app://com.google.android.googlequicksearchbox
+0 6
+https://www.sofgem.cl/welcome/cambiar_contrasenas
+0 4
+http://necro.sofgem.cl/
+0 8026
+https://www.sofgem.cl/welcome/contacto
+0 143
+http://www.necro.sofgem.cl/welcome/listado_encuesta
+0 15
+https://www.sofgem.cl/contacto/
+0 171
+http://www.necro.sofgem.cl/welcome/nosotros
+0 60
+https://www.sofgem.cl/welcome/listado_encuestas
+0 4
+http://www.necro.sofgem.cl/welcome/preguntas_frecuentes
+0 5
+http://www.necro.sofgem.cl/welcome/administrador
+0 25
+https://www.sofgem.cl/welcome/listado_encuesta
+0 21
+https://www.google.com/
+0 49
+- (Direct Request)
+0 86152
+https://200.111.155.164:443
+0 3
+https://www.sofgem.cl/welcome/nosotross
+0 12
+https://www.sofgem.cl/welcome/cambiar_contrasena
+0 30
+http://www.necro.sofgem.cl/welcome/planes
+0 70
+http://necro.sofgem.cl/.well-known/acme-challenge/WLMg1RU4GOR_HIvWcXXpD-BjXkuN_4mvH3kOfte5JgY
+0 8
+http://necro.sofgem.cl/welcome/prueba
+0 7
+m.sofgem.cl
+1 4
+https://www.sofgem.cl/welcome/administrador
+0 58
+https://www.sofgem.cl/welcome/index
+0 701
+http://www.sofgem.cl/wp-cron.php
+0 22
+http://necro.sofgem.cl/welcome/controlador_emails
+0 12
+https://www.sofgem.cl/.user.ini
+0 1
+https://www.sofgem.cl/
+0 4168
+https://www.sofgem.cl/welcome/encuesta
+0 1
+https://www.sofgem.cl/framework/js/custom.js
+0 7
+https://www.sofgem.cl/framework/css/personalizado.css
+0 1
+http://www.necro.sofgem.cl/welcome/inicio_sesion_generalss
+0 1
+http://localhost/sofgem/welcome/index
+0 59
+http://superamo.sofgem.cl/
+0 57
+https://www.sofgem.cl/welcome/planes
+0 18
+https://www.sofgem.cl/wp-content/themes/twentyseventeen-child/style.css
+0 1
+http://www.necro.sofgem.cl/index.php/welcome/index
+0 64
+https://www.sofgem.cl/welcome/inicio_sesion_general
+0 119
+http://www.sofgem.cl/
+0 1136
+http://www.necro.sofgem.cl/welcome/prueba
+0 1
+http://www.necro.sofgem.cl/.well-known/acme-challenge/2CVR1xaJzdy_1ieQ7meM8FF2CW_Z9SHBgrsm2Yx9hxs
+0 7
+http://www.necro.sofgem.cl/welcome/formulario
+0 55
+http://www.necro.sofgem.cl/welcome/editar_perfil_administrador
+0 7
+http://www.necro.sofgem.cl/welcome/controlador_emails
+0 3
+https://www.sofgem.cl/wp-admin/admin-ajax.php
+0 7
+https://www.sofgem.cl/welcome/planess
+0 7
+sofgem.cl
+0 2
+http://www.necro.sofgem.cl/welcome/cambiar_contrasena
+0 2
+http://200.111.155.164/
+0 4
+https://www.sofgem.cl/welcome/editar_perfil_cliente
+0 44
+https://www.netcraft.com/survey/
+0 1
+https://www.sofgem.cl/framework/slick/slick-theme.css
+0 493
+http://www.sofgem.cl
+1 3
+https://www.sofgem.cl/welcomes/editar_perfil_clientes
+0 3
+https://outlook.live.com/
+0 11
+https://200.111.155.164:443/web-console/ServerInfo.jsp
+0 1
+http://necro.sofgem.cl/welcome/formulario
+0 15
+https://www.sofgem.cl/s
+0 2
+https://www.sofgem.cl/wp-content/themes/twentyseventeen-child/fonts/font-awesome.min.css
+0 1
+https://www.sofgem.cl/welcome/administradors
+0 9
+www.sofgem.cl
+1 4
+https://google.com/search
+0 1
+https://200.111.155.164:443/phpmyadmin/
+0 1
+http://200.111.155.164:80
+0 1
+https://www.sofgem.cl/welcome/preguntas_frecuentes
+0 67
+http://www.necro.sofgem.cl/efecto/css/default.css
+0 2
+https://www.sofgem.cl/welcome/controlador_emails
+0 7
+https://www.sofgem.cl/framework/css/materialize.min.css
+0 1696
+http://www.necro.sofgem.cl/welcome/index
+0 1961
+http://necro.sofgem.cl/welcome/controlador_encuesta_email
+0 1
+https://200.111.155.164/
+0 26
+https://www.sofgem.cl/wp-cron.php
+0 5
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 1
+PycURL/7.43.0 libcurl/7.47.0 GnuTLS/3.4.10 zlib/1.2.8 libidn/1.32 librtmp/2.3
+0 4
+Mozilla/5.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 104
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 9
+Mozilla/5.0 (compatible; MegaIndex.ru/2.0; +http://megaindex.com/crawler)
+0 18
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; XMPP Tiscali Communicator v.10.0.2; .NET CLR 2.0.5
+0 3
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 1
+Cloud mapping experiment. Contact research@pdrlabs.net
+0 2
+Mozilla/5.1 (Windows NT 6.0; WOW64) AppleWebKit/537.37 (KHTML, like Gecko) Chrome/58.0.1145.75 Safari/537.37
+0 7
+HTTP Banner Detection (https://security.ipip.net)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 2327
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+0 7
+User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 3
+Mozilla/5.0 (Windows NT 6.1; rv:60.0) Gecko/20100101 Firefox/60.0
+0 2
+Mozilla/5.0 (Linux; Android 7.1.1; SAMSUNG SM-J510MN) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.
+0 93
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 5646
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 7
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.116 Mobile Safari/537.36
+0 173
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile S
+0 44
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 1
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 10
+Java/1.8.0_131
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G532M Build/MMB29T) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.4 C
+0 100
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/17.0 Firefox/17.0
+0 1
+Mozilla/5.0 (X11; Datanyze; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+0 21
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.2228.0 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 2
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; ru; rv:1.9.0.1) Gecko/2008070208
+0 4
+Mozilla/5.0 (Linux; Android 6.0; CAM-L03) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36
+0 95
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9) Gecko/2008052906 Firefox/3.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 1
+Java/1.8.0_141
+0 31
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3602.2 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 8.0.0; moto g(6) play Build/OPP27.91-177) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440
+0 92
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 39
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; fr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:67.0) Gecko/20100101 Firefox/67.0
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 6.1 en-US; rv:1.9.2.18) Gecko/20110614 Firefox/53.6.11
+0 1
+Mozilla/5.01678543 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.
+0 1
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 9
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 7.0; LG-M400 Build/NRD90U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Saf
+0 5340
+Mozilla/5.0 (Windows NT 4.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)Chrome/75.0.3770.100 Safari/537.36
+0 2
+Mozilla/5.0(Linux;Android 5.1.1;OPPO A33 Build/LMY47V;wv) AppleWebKit/537.36(KHTML,link Gecko) Version/4.0 Chrome/42.0.2311.1
+0 8
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-J810M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.
+0 78
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 106
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 8
+Mozilla/5.0 (Linux; Android 7.1.1; SM-J510MN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.3
+0 107
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 17
+Mozilla/5.0 (Linux; Android 9; SM-N950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+0 85
+Mozilla/5.67558 (Windows NT 18.2; WOW64; rv:18.0) Gecko/3364778 Firefox/18.0
+0 1
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 66
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.59 Safari/537.36
+0 7
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 113
+python-requests/2.23.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 123
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.105 Safari/537.36
+0 47
+Mozilla/7.0 (compatible; MSIE 8.0; Windows Seven)
+0 55
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A305G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.
+0 139
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Sa
+0 122
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)
+0 78
+Go-http-client/1.1
+0 28
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36 OPR/42.0.2393.9
+0 7
+Python-urllib/3.4
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36
+0 94
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 381
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0 Safari/537.36
+0 12
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+0 12
+Googlebot-Image/1.0
+0 182
+Mozilla/5.0 (Linux; Android 7.1.1; Moto E (4) Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/
+0 123
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2)
+0 16
+python-requests/2.10.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.157 Safari/537.36
+0 8
+WhatsApp/2.19.360 A
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36 Kinza/4.7.2
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.1.27 (KHTML, like Gecko) Version/10.1 Safari/601.1.27
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/3.0.0.13
+0 2
+python-requests/2.6.0 CPython/2.7.5 Linux/3.10.0-1062.18.1.el7.x86_64
+0 1
+Hello, world
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1 en-US; rv:1.9.2.18) Gecko/20110614 Firefox/3.6.18
+0 3
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Saf
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 7
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; SV1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 63
+Mozilla/5.0 (Linux; Android 9; MRD-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+0 119
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 
+0 133
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.
+0 131
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 9
+WordPress/4.9.13; https://www.sofgem.cl
+0 40
+MixnodeCache/1.8(+https://cache.mixnode.com/)
+0 6
+python-requests/2.22.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebo
+0 12
+Mozilla/5.0 (Linux; Android 8.1.0; SM-J701M Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Sa
+0 111
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+0 4
+Mozilla/5.0 (Linux; Android 9; SM-A305G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Mobile Safari/537.36
+0 100
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 23
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:68.0) Gecko/20100101 Firefox/68.0
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+0 113
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.99
+0 1
+Mozilla/5.0 zgrab/0.x
+0 54
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_4) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.82 Safari/537.1
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)
+0 3
+polaris botnet
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+0 1
+Mozilla/5.0 (Linux; Android 9; MAR-LX3A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36
+0 551
+Ankit
+0 43
+Mozilla/5.0 (compatible; VelenPublicWebCrawler/1.0; +https://velen.io)
+0 5
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+0 161
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.43 Safari/537.31
+0 1
+WhatsApp/2.19.352 A
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 2293
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 4
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/80.0.39
+0 6
+Mozilla/5.0 (Linux; Android 9; SM-A205G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.93 Mobile Safari/537.36
+0 223
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 (.NET CLR 2.0.50727; .NET CLR 3.0.45
+0 5
+Python-urllib/2.7
+0 1
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 45
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 7516
+git/2.2
+0 1
+Mozilla/5.0 (WordPress.com; https://en.support.wordpress.com/contact/)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.137 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+0 2
+Mozilla/5.0(Linux;U;Android 5.1.1;zh-CN;OPPO A33 Build/LMY47V) AppleWebKit/537.36(KHTML,like Gecko) Version/4.0 Chrome/40.0.2
+0 7
+Mozilla/5.0 (Windows NT 10.0.18363; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Slack/4.3.4 Chrome/78.0.3904.130 Elect
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+0 37
+Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; G735-L03) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36
+0 244
+Pandalytics/1.0 (https://domainsbot.com/pandalytics/)
+0 2
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 9
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 121
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 32
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 25
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E14
+0 330
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 98
+Opera/9.80 (Windows NT 5.1; U; en) Presto/2.10.289 Version/12.01
+0 18
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
+0 3
+B4ckdoor-owned-you
+0 3
+Mozilla/5.0 (Windows NT 5.1; rv:9.0.1) Gecko/20100101 Firefox/9.0.1
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/77.0.3827.0 Safari/537.36
+0 33
+Python-urllib/3.7
+0 2
+kubectl/v1.12.0 (linux/amd64) kubernetes/0ed3388
+0 2
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 20
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 13
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.29
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+0 1
+Java/1.8.0_242
+0 2
+Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-J701M Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Ch
+0 202
+Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/22.0
+0 1
+WhatsApp/2.20.11 A
+0 4
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 89
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+0 14
+Mozilla/5.0 (compatible; SemrushBot/6~bl; +http://www.semrush.com/bot.html)
+0 25
+Mozilla/5.0 (Linux; Android 9; moto e(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.
+0 118
+TLS tester from https://testssl.sh/dev/
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:64.0) Gecko/20100101 Firefox/64.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 4
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 3
+Mozilla/5.0 (Linux; Android 9; MAR-LX3A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
+0 110
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+0 10
+Mozilla/5.0 (Linux; Android 9; SM-A705MN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
+0 90
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+0 3
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A305G Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/
+0 439
+Mozilla/5.0 (Linux; Android 9; SM-A750G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+0 95
+Mozilla/5.0 (Windows; U; Windows NT 6.0;en-US; rv:1.9.2) Gecko/20100115 Firefox/3.6)
+0 21
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36 OPR/55.0.
+0 2
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; AspiegelBot)
+0 119
+Mozilla/5.0 (Linux; Android 9; moto g(6) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.
+0 53
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 1
+Python/3.6 aiohttp/3.1.3
+0 2
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a3pre) Gecko/20070330
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Safari/537.36
+0 9
+Mozilla/5.0 (Windows; U; Windows NT 6.0; fr; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28
+0 7
+Mozilla/5.0(Linux;Android 5.1.1;OPPO A33 Build/LMY47V;wv) AppleWebKit/537.36(KHTML,link Gecko) Version/4.0 Chrome/43.0.2357.1
+0 7
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 2
+Mozilla/5.0 (Linux; Android 9; LM-X525) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Mobile Safari/537.36
+0 98
+Mozilla/4.0 (compatible: MSIE 7.0; Windows NT 6.0)
+0 81669
+Mozilla/5.0 (Linux; Android 9; SM-A107M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36
+0 98
+Mozilla/5.0 (Linux; Android 7.0; FRD-AL00 Build/HUAWEIFRD-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.108 Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 13
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+0 1
+masscan/1.0 (https://github.com/robertdavidgraham/masscan)
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36
+0 1
+HubSpot Connect 2.0 (http://dev.hubspot.com/) - BizOpsCompanies-Tq2-BizCoDomainValidationAudit
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
